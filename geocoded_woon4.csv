@@ -1,0 +1,1001 @@
+Ugent ID,address,city,country,lat_2,long_2
+8.02001E+11,Wautersdreef 33,Merelbeke-Melle,Belgium,51.0205125,3.7700301
+8.02002E+11,Maaltebruggestraat 297,Gent,Belgium,51.0260562,3.7075788
+8.02002E+11,Hubert Malfaitlaan 3,Sint-Martens-Latem,Belgium,51.0032531,3.6317795
+8.02002E+11,Parklaan 26 / 004,Aalst,Belgium,50.929974,4.0408182
+8.02003E+11,Karel Lodewijk Dierickxstraat 35,Gent,Belgium,51.0520596,3.7054652
+8.02003E+11,Hondstraat 86,Tielt,Belgium,51.0033884,3.3129682
+8.02003E+11,Terdonckstraat 3,Wontergem,Belgium,50.9790302,3.4447011
+8.02003E+11,Paddepoeleweg 9,Maldegem,Belgium,51.2251052,3.4403813
+8.02003E+11,Vossensteert 180,Sint-Kruis,Belgium,51.2050838,3.2656736
+8.02003E+11,Ter Elst 9,Wevelgem,Belgium,50.8416494,3.2123819
+8.02003E+11,Braamstraat 11 / 0102,Oostende,Belgium,51.2400216,2.9392207
+8.02003E+11,Ter Elst 9,Gullegem,Belgium,50.8416494,3.2123819
+8.02003E+11,Koning Boudewijnstraat 19 / 202,Gent,Belgium,51.037838,3.7094375
+8.02003E+11,Kanunnik Berghsstraat 1,Niel-bij-As,Belgium,51.012952,5.6100607
+8.02003E+11,Jakob Heremansstraat 41 / H,Gent,Belgium,51.0410955,3.7113675
+8.02004E+11,Terplaten 72 / 002,Gent,Belgium,,
+8.02004E+11,Voskenslaan 18,Gent,Belgium,51.0331057,3.7078648
+8.02004E+11,Zandpoortstraat 14,Gent,Belgium,51.0499255,3.717722
+8.02004E+11,Marktstraat 3 / 5,Lichtervelde,Belgium,51.0260765,3.137116
+8.02004E+11,Petrus De Meyerestraat 29,Ledeberg,Belgium,51.0361268,3.7447818
+8.02004E+11,Diksmuidestraat 8,Gent,Belgium,51.0313482,3.7213156
+8.02004E+11,Henleykaai 67,Gent,Belgium,51.0416119,3.7146928
+8.02004E+11,Sint-Liesbetsteeg 10,Gent,Belgium,51.0477598,3.722178
+8.02004E+11,Albert Schweitzerstraat 26 / 1/14,Gent,Belgium,,
+8.02004E+11,Wingensesteenweg 7,Egem,Belgium,51.0215143,3.2660311
+8.02004E+11,Sint-Niklaasstraat 22,Gent,Belgium,51.0527071,3.7230438
+8.02004E+11,Voskenslaan 443 / 02C,Gent,Belgium,,
+8.02004E+11,Muinklaan 7 / 1,Gent,Belgium,51.0430586,3.7302824
+8.02004E+11,Hubert-Frere Orbanlaan 682,Gent,Belgium,51.041393,3.7356397
+8.02004E+11,Koningin Maria Hendrikaplein 7K,Gent,Belgium,51.0365541,3.7105377
+8.02004E+11,Landuytstraat 14,Deinze,Belgium,50.9837647,3.4706441
+8.02004E+11,Einde Were 5 / 502,Gent,Belgium,51.0524443,3.6999226
+8.02004E+11,Emiel Banningstraat 31 / 301,Antwerpen,Belgium,51.2062386,4.3898343
+8.02004E+11,Van Eycklei 44 / 101,Antwerpen,Belgium,51.2109278,4.4108972
+8.02004E+11,Keizervest 6 / 402,Gent,Belgium,51.0416709,3.7391253
+8.02004E+11,Haeghensgoed 25 / 201,Laarne,Belgium,51.0285445,3.8617248
+8.02004E+11,Patijntjesstraat 82,Gent,Belgium,,
+8.02004E+11,Heerweg zuid 186 / 201,Zwijnaarde,Belgium,50.9908304,3.7046671
+8.02004E+11,Voormuide 46,Gent,Belgium,51.0679456,3.7294459
+8.02004E+11,heerweg zuid 186 / 201,Zwijnaarde,Belgium,50.9908304,3.7046671
+8.02004E+11,Floraliënlaan 55 / 402,Gent,Belgium,51.0377818,3.7171514
+8.02004E+11,Burggravenlaan 32 109,Gent,Belgium,51.0321882,3.7332298
+8.02004E+11,Filips De goedekaai 20 / 0201,Gent,Belgium,51.0373436,3.7332308
+8.02004E+11,Bekerveldweg 13,Zonhoven,Belgium,50.9877928,5.3729439
+8.02004E+11,Zwaluwlaan 32,Nazareth-De Pinte,Belgium,50.9874824,3.6369241
+8.02004E+11,Kortrijksesteenweg 190 / 201,Gent,Belgium,51.0195333,3.6793615
+8.02004E+11,Moerhuizestraat 33,Maldegem,Belgium,51.2331767,3.4683395
+8.02004E+11,Jeruzalemstraat 40,Gent,Belgium,51.0480074,3.723556
+8.02005E+11,Krijgslaan 205,Gent,Belgium,51.0284379,3.7182561
+8.02005E+11,Rue jean XXIII 3 / A,Saint-André-Lez-Lille,Belgium,,
+8.02005E+11,Burggravenlaan 32 203,Gent,Belgium,51.0321882,3.7332298
+8.02005E+11,Parklaan 84,Gent,Belgium,51.0348101,3.7173615
+8.02005E+11,Muinkkaai 109,Gent,Belgium,51.044248,3.7287177
+8.02005E+11,"Mandaran, Arandi, Arambagh, Hooghly 0",West Bengal,Belgium,,
+8.02005E+11,Kasterbant 3 3,Gent,Belgium,51.0500452,3.7420048
+8.02005E+11,Nieuwstraat 2,Gavere,Belgium,50.9291624,3.6590109
+8.02005E+11,Jan Vermeirestraat 4,Kortrijk,Belgium,50.8233855,3.2785867
+8.02005E+11,Amelia Earhartlaan 6,Gent,Belgium,51.0304417,3.6895271
+8.02005E+11,Vinkebroeksestraat 3a,Sint Jansteen,Belgium,,
+8.02005E+11,Johan Daisnestraat 10 / 201,Gent,Belgium,51.0506252,3.7120789
+8.02005E+11,Maaltebruggestraat 145,Gent,Belgium,51.0304315,3.7107289
+8.02005E+11,Rietstraat 39,Gent,Belgium,51.0642108,3.7102077
+8.01001E+11,Boomgaardlaan 1,Zandvoorde (Oostende),Belgium,51.1998669,2.9755623
+8.01002E+11,Oudebaan 7,Roosdaal,Belgium,50.8429014,4.1233688
+8.02E+11,sluisstraat 22a,Geel,Belgium,51.2034553,4.9838407
+8.02002E+11,Haeghensgoed 67,Laarne,Belgium,51.0292075,3.8604685
+8.02004E+11,Hertooiebos 4,Zwijnaarde,Belgium,51.0123165,3.7180382
+8.02004E+11,Deerlijkstraat 105,Zwevegem,Belgium,50.8170801,3.337596
+8.01E+11,Bellemstraat 138,Aalter,Belgium,51.087338,3.4637895
+8.01001E+11,ouden herreweg 11,Gavere,Belgium,50.9234808,3.6475811
+8.01002E+11,Ranonkelstraat 2 / 102,Oudenaarde,Belgium,50.8534935,3.6082637
+8.01002E+11,Kapelleberg 24,Maarke-Kerkem,Belgium,50.8203238,3.6564272
+8.02001E+11,Damstraat 105,Deinze,Belgium,51.0156609,3.5808467
+8.02001E+11,Dikke Linde 3,Merelbeke-Melle,Belgium,50.9980816,3.7868221
+8.02002E+11,Langerbrugsestraat 9,Evergem,Belgium,51.11005,3.7115024
+8.02002E+11,mezenstraat 6,Sint-Amandsberg,Belgium,51.0661968,3.7740827
+8.02003E+11,Wittelinkstraat 14,Gent,Belgium,51.0717704,3.6966905
+8.02003E+11,Gaston Crommenlaan 26 / 401,Ledeberg,Belgium,51.0367126,3.7376139
+8.02003E+11,Oude-Bruglaan 161,Lokeren,Belgium,51.1063139,4.0076328
+8.02004E+11,Citadellaan 40 / 201,Gent,Belgium,51.0382307,3.728071
+8.01001E+11,Roggeveld 15,Belsele,Belgium,51.1449887,4.0688407
+8.01001E+11,Hellestraat 13,Astene,Belgium,50.9898395,3.568204
+8.01001E+11,Aaigembergstraat 50,Erpe-Mere,Belgium,50.8789089,3.9328572
+8.01001E+11,Kortrijksesteenweg 775,Gent,Belgium,51.0195333,3.6793615
+8.01001E+11,Dudzeelse steenweg 173,Brugge,Belgium,51.231605,3.2286549
+8.01001E+11,Stationsstraat 123,Eke,Belgium,50.9603535,3.6302669
+8.01001E+11,Forelstraat 10 / 202,Gent,Belgium,51.0491044,3.7437319
+8.01001E+11,Hoveniersstraat 24,Koolkerke,Belgium,51.2384574,3.249774
+8.01001E+11,Bambochtweg 18,Lede,Belgium,50.9716342,3.9813556
+8.01001E+11,Parklaan 48,Gent,Belgium,51.0349437,3.7184858
+8.01001E+11,Reygaerdijkstraat 36,Veurne,Belgium,51.0636212,2.7262453
+8.01001E+11,Gaversesteenweg 758,Melsen,Belgium,50.9539167,3.6902366
+8.01001E+11,Leopold-II-Laan 16,Dendermonde,Belgium,51.0316978,4.1078236
+8.01001E+11,Bukkestraat 6,Vurste,Belgium,50.9445527,3.6908227
+8.01001E+11,Mariakerksesteenweg 19,Drongen,Belgium,51.0521411,3.6621275
+8.01001E+11,Raas Van Gaverestraat 82,Gent,Belgium,51.0508953,3.7080747
+8.01001E+11,Meileveld 23,Zottegem,Belgium,50.865661,3.8021901
+8.01001E+11,Kapittelstraat 19,Dendermonde,Belgium,51.0324835,4.092904
+8.01001E+11,Leon De Smetlaan 9,Deurle,Belgium,51.0089685,3.6003813
+8.01001E+11,Spoorweglaan 37,Nazareth-De Pinte,Belgium,50.9937807,3.6331713
+8.01001E+11,Floraliënlaan 17 / 0101,Gent,Belgium,51.0377818,3.7171514
+8.01001E+11,Beekstraat 31,Zulte,Belgium,50.9268146,3.4580797
+8.01001E+11,Zegelaan 40,Bredene,Belgium,51.2416948,2.9597127
+8.01001E+11,Gotjensstraat 2A,Maldegem,Belgium,51.1976313,3.4176763
+8.01001E+11,Bergstraat 14 / F003,Vinderhoute,Belgium,51.0863848,3.6336375
+8.01001E+11,Oudkasteelplein 11,Deurne,Belgium,51.2307017,4.4629588
+8.01001E+11,Sint-Gerolflaan 40,Aalter,Belgium,51.089767,3.4441952
+8.01001E+11,Zandvleuge 12,Kalken,Belgium,51.0380974,3.9232594
+8.01001E+11,Heerweg Noord 45,Zwijnaarde,Belgium,51.0053226,3.7155689
+8.01001E+11,De Mote 50,Sint-Kruis,Belgium,51.2081208,3.2459516
+8.01001E+11,Oude Heirbaan 91 / 2,Leeuwergem,Belgium,50.8908051,3.8333689
+8.01001E+11,Zwijnaardsesteenweg 519,Gent,Belgium,51.0244005,3.7208725
+8.01001E+11,Hoogstraat 24,Deinze,Belgium,51.0255887,3.5541039
+8.01001E+11,Surkelbulk 4,Sint-Denijs-Westrem,Belgium,51.0178171,3.6888779
+8.01001E+11,Pastoor Meeusenlaan 13,Schoten,Belgium,51.2479623,4.4946198
+8.01001E+11,Borrewal 1,Nevele,Belgium,51.0373283,3.5463154
+8.01001E+11,Roskamstraat 6,Sint-Gillis-Waas,Belgium,51.1952704,4.1382998
+8.01001E+11,Dorpsstraat 119,Sint-Andries,Belgium,,
+8.01001E+11,Kasteelwegel 34,Sint-Amandsberg,Belgium,51.0676403,3.7827861
+8.01001E+11,Voskenslaan 462A,Gent,Belgium,51.0262994,3.7100212
+8.01002E+11,Sint-Annawegel 15,Bottelare,Belgium,50.9630443,3.7524358
+8.01002E+11,Bijlokestraat 30,Destelbergen,Belgium,51.0585701,3.7661657
+8.01002E+11,Bloemistenstraat 8,Kortrijk,Belgium,50.8226695,3.2634758
+8.01002E+11,Fonteineweg 7,Nukerke,Belgium,50.772653,3.6240899
+8.01002E+11,Krijgsgasthuisstraat 8,Gent,Belgium,51.0511783,3.7041153
+8.01002E+11,Sportstraat 185,Gent,Belgium,51.0413929,3.7062116
+8.01002E+11,Ellevestraat 21,Dikkelvenne,Belgium,50.9197007,3.726182
+8.01002E+11,Turkooispad 20,Gent,Belgium,51.018608,3.7109039
+8.01002E+11,Sneppestraat 23,Elsegem,Belgium,50.8264233,3.5321834
+8.01002E+11,Ottergemsesteenweg 347,Gent,Belgium,51.0282175,3.7326274
+8.01002E+11,Weerstandstraat 16,Evere,Belgium,50.8696802,4.396547
+8.02E+11,Waesbergdries 14,Lierde,Belgium,50.8314246,3.8512554
+8.02E+11,Begonialaan 29,Nazareth-De Pinte,Belgium,50.9961242,3.6534051
+8.02E+11,Comminnestraat 8,Moen,Belgium,50.7922276,3.3579922
+8.02E+11,Reinaertstraat 113,Gent,Belgium,51.0587719,3.7009334
+8.02E+11,Kerkstraat 217,Gentbrugge,Belgium,51.0438101,3.7484741
+8.02E+11,Nerenbroekstraat 77,Erpe,Belgium,50.9443414,3.9756828
+8.02E+11,Langerbrugsestraat 56,Evergem,Belgium,51.1108567,3.7151787
+8.02E+11,Molenbeekweg 4,Massemen,Belgium,50.9902193,3.8778076
+8.02E+11,Kattebroeckstraat 39,Overmere,Belgium,51.0546826,3.9505458
+8.02E+11,Molenstraat 90,Torhout,Belgium,51.06335,3.085754
+8.02E+11,Guido Gezellelaan 17,Nazareth-De Pinte,Belgium,50.9957925,3.6618942
+8.02E+11,Ralingen 58,Evergem,Belgium,51.1075963,3.6946287
+8.02E+11,Opaaigem 28,Aaigem,Belgium,50.8929607,3.9359536
+8.02E+11,Ten Broucken 7,Kanegem,Belgium,51.0115446,3.4037809
+8.02001E+11,Opvoedingstraat 26,Gent,Belgium,51.0287218,3.7231376
+8.02001E+11,Notelaarstraat 15,Merelbeke-Melle,Belgium,50.9839886,3.727919
+8.02001E+11,Dendermondesteenweg 417,Destelbergen,Belgium,51.0559921,3.794902
+8.02001E+11,Braemstraat 70,Gentbrugge,Belgium,51.0347596,3.7644124
+8.02001E+11,Kerkbaan 28,Wichelen,Belgium,51.0050812,3.9743116
+8.02001E+11,Begijnenweide 51,Oosterzele,Belgium,50.9368398,3.76931
+8.02001E+11,Lange Violettestraat 167,Gent,Belgium,51.0468853,3.7352093
+8.02001E+11,Sint-Blasiusstraat 3,Waardamme,Belgium,51.1115235,3.2219384
+8.02001E+11,Albertlaan 177,Vorst,Belgium,50.817777,4.345828
+8.02001E+11,Rabotwegel 6,Evergem,Belgium,51.0921048,3.6580358
+8.02001E+11,Sluiskouter 40,Deinze,Belgium,50.9703843,3.5216142
+8.02001E+11,Potaardeberg 63,Merelbeke-Melle,Belgium,50.9916894,3.7393387
+8.02001E+11,Boelarestraat 18,Geraardsbergen,Belgium,50.7741496,3.8823453
+8.02002E+11,Rijsenbergstraat 36,Gent,Belgium,51.0399148,3.7058981
+8.02002E+11,Melkwegel 13,Destelbergen,Belgium,51.0337376,3.8041133
+8.02002E+11,Mimosastraat 51,Gent,Belgium,51.0728915,3.7065649
+8.02002E+11,Hofstraat 189,Gent,Belgium,51.0458134,3.730103
+8.02002E+11,Stroombanklaan 28,Oostende,Belgium,51.2334328,2.943134
+8.02002E+11,Acaciastraat 4,Lovendegem,Belgium,51.1076566,3.6352272
+8.02002E+11,Congostraat 24,Lotenhulle,Belgium,51.0525449,3.4569869
+8.02002E+11,Vlaanderenstraat 103 / B,Gent,Belgium,51.0506661,3.7296479
+8.02002E+11,Graaf de Smet de Naeyerlaan 63,Kortrijk,Belgium,50.8344543,3.255958
+8.02002E+11,Holdaal 74a,Gent,Belgium,51.0411632,3.7171176
+8.02003E+11,Broek 71,Balegem,Belgium,50.909842,3.8118518
+8.02003E+11,Astridlaan 57,Assebroek,Belgium,51.1991526,3.2500642
+8.02003E+11,Kleine Kerkstraat 24,Ledeberg,Belgium,51.0357523,3.742746
+8.02003E+11,rue Léopold Mallar 8,Verviers,Belgium,50.5864205,5.8715921
+8.02003E+11,Coomansheide 13,Wondelgem,Belgium,51.0880553,3.6912922
+8.02003E+11,Klaproosstraat 33,Scheldewindeke,Belgium,50.9339389,3.7756434
+8.02003E+11,Wilgenstraat 44,Mechelen,Belgium,51.0067977,4.4816497
+8.02003E+11,Oudebaan 302,Leuven,Belgium,50.8665635,4.7351502
+8.02003E+11,Zandrede 17,Heusden (O.Vl.),Belgium,,
+8.02003E+11,Eksaardserijweg 133,Oostakker,Belgium,51.0908017,3.7731869
+8.02003E+11,Henri-Joseph Reystraat 11 / 201,Ledeberg,Belgium,51.0361879,3.7353287
+8.02003E+11,Jakob Heremansstraat 49 / 101,Gent,Belgium,51.0410955,3.7113675
+8.02003E+11,Kortrijksepoortstraat 214,Gent,Belgium,51.0437389,3.7210099
+8.02003E+11,Willy Maststraat 69,Wondelgem,Belgium,51.0849877,3.7045775
+8.02003E+11,Kerkveld(b) 58,Berlare,Belgium,51.029107,4.0039433
+8.02003E+11,Westhoek 8,Nevele,Belgium,,
+8.02003E+11,Twaalfkameren 71 / c,Gent,Belgium,51.050146,3.7132977
+8.02003E+11,Krijgslaan 79,Gent,Belgium,51.0284379,3.7182561
+8.02003E+11,Van Campenhoutstraat 48 / 1,Berchem,Belgium,51.1980099,4.4223278
+8.02003E+11,Manebruggestraat 45,Deurne,Belgium,51.2011534,4.4738824
+8.02003E+11,Weggevoerdenstraat 11,Wevelgem,Belgium,50.8092298,3.1755836
+8.02003E+11,Verpleegsterstraat 95 / 0404,Gent,Belgium,,
+8.02003E+11,Kortrijksesteenweg 603,Gent,Belgium,51.0195333,3.6793615
+8.02003E+11,Desire van Monckhovenstraat 42,Gent,Belgium,51.0385661,3.7139888
+8.02003E+11,Baliestraat 1 / 2.001,Gent,Belgium,,
+8.02003E+11,71 al-Farabi Ave. 25,Almaty,Belgium,,
+8.02003E+11,Schoonmeersstraat 28,Gent,Belgium,51.0306548,3.7038427
+8.02003E+11,Lange Violettestraat 32 / 103,Gent,Belgium,51.0455111,3.7349378
+8.02003E+11,Priester Cuypersstraat 7,Etterbeek,Belgium,50.8380377,4.3996263
+8.02003E+11,Dennenhof 53,Lochristi,Belgium,51.0908187,3.8223299
+8.02003E+11,Ter Elst 9,Gullegem,Belgium,50.8416494,3.2123819
+8.02003E+11,Mattestede 9F,Zwijnaarde,Belgium,50.9949642,3.7069027
+8.02003E+11,Kempstraat 135,Gent,Belgium,51.0686836,3.6915171
+8.02003E+11,Sint Hubertuslaan 22,Driebergen,Belgium,,
+8.02003E+11,Jan De Coomanstraat 47b,Zandbergen,Belgium,50.8064443,3.9582093
+8.02003E+11,Stuiverstraat 226,Oostende,Belgium,51.2139315,2.9101837
+8.02003E+11,Smidsestraat 41 / 201,Gent,Belgium,51.0386864,3.7130572
+8.02004E+11,Lily Boeykensstraat 2 / 0202,Gent,Belgium,51.0545021,3.6875746
+8.02004E+11,S.V.D. Veldestraat(SML) 56,Zwalm,Belgium,,
+8.02004E+11,Savaanstraat 2,Gent,Belgium,50.9798278,3.6658845
+8.02004E+11,Keramiekstraat 80,Gent,Belgium,51.0200407,3.7261979
+8.02004E+11,Gaversesteenweg 758,Merelbeke-Melle,Belgium,50.9539167,3.6902366
+8.02004E+11,Kortrijksesteenweg 526,Gent,Belgium,51.0195333,3.6793615
+8.02004E+11,Keizer Karelstraat 2 / 302,Gent,Belgium,51.0533813,3.7312007
+8.02004E+11,Voskenslaan 485,Gent,Belgium,51.0331057,3.7078648
+8.02004E+11,Sint-Widowstraat 20,Gent,Belgium,,
+8.02004E+11,floraliënlaan 51 / 0804,Gent,Belgium,51.0376736,3.7168463
+8.02004E+11,Mekelle University 231,Mekelle,Belgium,,
+8.02004E+11,Sint-Lievenslaan 140 / 501,Gent,Belgium,51.038196,3.7319514
+8.02004E+11,Charles de Kerchovelaan 347 / 347,Gent,Belgium,51.041519,3.7197338
+8.02004E+11,Rue Lepelletier 16,Lille,Belgium,,
+8.02004E+11,Boomgaardstraat 27 / 3B,Aalter,Belgium,51.084981,3.4499847
+8.02004E+11,Snoekstraat 121,Gent,Belgium,51.046272,3.7442593
+8.02004E+11,"Tonghai South Road, Yueyang Tower District Unit 1","Yueyang City, Hunan Province",Belgium,,
+8.02004E+11,Filips van Marnixstraat 22,Gent,Belgium,51.0404553,3.7183914
+8.02004E+11,Tweebruggenstraat 18 / A,Gent,Belgium,51.0471118,3.7334375
+8.02004E+11,Koperstraat 5,Sint-Martens-Latem,Belgium,51.0198592,3.6357987
+8.02004E+11,Kortrijksestraat 237C,Heule,Belgium,50.8371426,3.2468133
+8.02004E+11,Saghermansstraat 302 / 2A,Gent,Belgium,51.0501657,3.7270542
+8.02004E+11,Voskenslaan 483,Gent,Belgium,51.0331057,3.7078648
+8.02004E+11,Carrera 24 C 54-60 Sur Interior 7 / 30,Bogotá D.C.,Belgium,,
+8.02004E+11,Peperstraat 22,Gent,Belgium,51.0556469,3.7144154
+8.02004E+11,Burggravenlaan 83,Gent,Belgium,51.0321882,3.7332298
+8.02004E+11,Rasphuisstraat 6 / 1,Gent,Belgium,51.0536997,3.7108965
+8.02004E+11,Nederkouter 126 / 101,Gent,Belgium,51.0468889,3.7219562
+8.02004E+11,Kasteelstraat 29,Zwevegem,Belgium,50.8112047,3.3321295
+8.02004E+11,Sint-Widostraat 16,Gent,Belgium,51.0575947,3.7197421
+8.02004E+11,Schepenhuisstraat 29,Gent,Belgium,51.0553316,3.7254048
+8.02004E+11,Prof. Oudemansstraat 75,Delft,Belgium,,
+8.02004E+11,Coupure 944,Gent,Belgium,51.0469268,3.7187596
+8.02004E+11,Koningin Astridlaan 229,Gent,Belgium,51.0361737,3.7141401
+8.02004E+11,Hilarius Bertolfstraat 110,Ledeberg,Belgium,51.0353884,3.7465059
+8.02004E+11,Baliestraat 9,Gent,Belgium,51.0401584,3.7162252
+8.02004E+11,Brandweerstraat 17 / 301,Gent,Belgium,51.060265,3.7194955
+8.02004E+11,Corn. Vissenaekensplein 19 / 0012,Begijnendijk,Belgium,,
+8.02004E+11,Koolmeesstraat 4,Gent,Belgium,50.9926009,3.7980309
+8.02004E+11,Kasteellaan 449,Gent,Belgium,51.0550032,3.7388897
+8.02004E+11,Neerveldstraat 71,Opwijk,Belgium,50.9772186,4.1847644
+8.02004E+11,Kalvermarkt 1,Gent,Belgium,51.0555183,3.7312908
+8.02004E+11,Kasteellaan 489,Gent,Belgium,51.0558615,3.7384732
+8.02004E+11,Voskenslaan 381,Gent,Belgium,51.0275589,3.7090549
+8.02004E+11,Bressers-Blanchaertlaan 8 / 101,Sint-Denijs-Westrem,Belgium,51.0226997,3.6942847
+8.02004E+11,Hoornstraat 11 / 0101,Gent,Belgium,51.0522177,3.7205795
+8.02004E+11,Zandstraat 166,Eeklo,Belgium,51.1789049,3.5610468
+8.02004E+11,Dennenlaan 12,Herzele,Belgium,50.8996408,3.8667846
+8.02004E+11,Raas van Gaverestraat 82,Gent,Belgium,51.0508953,3.7080747
+8.02004E+11,Visserij 40,Gent,Belgium,51.0507062,3.7366347
+8.02004E+11,Steenakker 16,Gent,Belgium,51.0243471,3.7215863
+8.02004E+11,Coupure Rechts 942,Gent,Belgium,51.0469268,3.7187596
+8.02004E+11,"Department of Mathematics, IIT Bombay, Powai 1",Mumbai,Belgium,,
+8.02004E+11,Bonifantenstraat 2 / 15,Gent,Belgium,51.0569779,3.7172652
+8.02004E+11,Stropkaai 28 / 0201,Gent,Belgium,51.0375432,3.730116
+8.02004E+11,Square Drouet d’Erlon 55,Braine-l'Alleud,Belgium,50.6745339,4.3892516
+8.02004E+11,Zinniastraat 61,Gent,Belgium,51.0630642,3.6998628
+8.02004E+11,Koning Boudewijnstraat 2B / 101,Gent,Belgium,51.037838,3.7094375
+8.02004E+11,Koning Albertlaan 156,Gent,Belgium,51.1081731,3.8223316
+8.02004E+11,Camí des Talaiot 18,"Es Castell, Menorca",Belgium,,
+8.02004E+11,Sportstraat 95,Gent,Belgium,51.0405105,3.7034165
+8.02004E+11,schoolkaai 16b,Gent,Belgium,51.0560296,3.7365749
+8.02004E+11,Mellestraat 89 / 0002,Gentbrugge,Belgium,51.0229957,3.7581638
+8.02004E+11,Kattenberg 35,Gent,Belgium,51.0414058,3.7242951
+8.02004E+11,Gaversesteenweg 751,Melsen,Belgium,50.9644709,3.7047105
+8.02004E+11,Rabautstraat 37,Eeklo,Belgium,51.1905357,3.5731574
+8.02004E+11,Steenstraat 26,Lede,Belgium,50.9640703,4.0003145
+8.02004E+11,Zuidstationstraat 18 / A101,Gent,Belgium,51.0490418,3.7324925
+8.02004E+11,Route de Kérinis 22L,LOCMARIAQUER,Belgium,,
+8.02004E+11,Coupure 738,Gent,Belgium,51.0469268,3.7187596
+8.02005E+11,Alter Garten 8,Langensendelbach,Belgium,,
+8.02005E+11,Dorpsstraat 39,Oud-Heverlee,Belgium,50.8389291,4.66397
+8.02005E+11,rue Cavendish 01,Nice,Belgium,,
+8.02005E+11,Oudenaardsesteenweg 67,Gent,Belgium,51.0208528,3.7095575
+8.02005E+11,Havikstraat 2A,Sint-Amandsberg,Belgium,51.064578,3.772305
+8.02005E+11,Bonifantenstraat 2 / 24,Gent,Belgium,51.0569779,3.7172652
+8.02005E+11,Keizervest 170,Gent,Belgium,51.0391584,3.7380542
+8.02005E+11,Onze-Lieve-Vrouwstraat 88 / A,Herent,Belgium,50.9083475,4.6753212
+8.02005E+11,Ooievaarstraat 76,Gent,Belgium,51.05826,3.6981846
+8.02005E+11,Bouwschen pad 41,Turnhout,Belgium,51.3251346,4.9353599
+8.02005E+11,"St Luke’s Rd, Claremont 9",South Africa,Belgium,,
+8.02005E+11,de Fierlantstraat 161,Vorst,Belgium,50.8234491,4.3318627
+8.02005E+11,Aviasozlar 4 house 63 / flat 2,Tashkent,Belgium,,
+8.02005E+11,Ooststraat 25,Westende,Belgium,51.1547878,2.7790162
+8.02005E+11,Ebergiste De Deynestraat 15 / 0510,Gent,Belgium,51.0169601,3.71132
+8.02005E+11,Krijgslaan 281,Gent,Belgium,51.0250898,3.7135395
+8.02005E+11,Guldenspoorstraat 20,Gent,Belgium,51.0451572,3.7300854
+8.02005E+11,Kortrijksesteenweg 975,Gent,Belgium,51.0195333,3.6793615
+8.02005E+11,Victoriastraat 38,Gent,Belgium,51.0347244,3.7241649
+8.02005E+11,Keizervest 170,Gent,Belgium,51.0391584,3.7380542
+8.02005E+11,Keizer Karelstraat 116 / 002,Gent,Belgium,51.0523239,3.7320146
+8.02005E+11,Stropkaai 27 / 001,Gent,Belgium,51.0375432,3.730116
+8.02005E+11,Jozef Guislain 98 / 0001,Gent,Belgium,51.0657264,3.7036796
+8.02005E+11,Lieremanstraat 39,Gent,Belgium,51.0557361,3.6998882
+8.02005E+11,Reigerstraat 40,Gent,Belgium,51.0340674,3.7091932
+8.02005E+11,Zebrastraat 6,Gent,Belgium,51.0400587,3.7330881
+8.02005E+11,Gäbelbachstrasse 37,Bern,Belgium,,
+8.01001E+11,Kortrijksesteenweg 545,Gent,Belgium,51.0195333,3.6793615
+8.01001E+11,Ten Edestraat 64A,Nazareth-De Pinte,Belgium,50.9572522,3.6243958
+8.01001E+11,Minister Liebaertlaan 80,Kortrijk,Belgium,50.8339746,3.2717397
+8.01001E+11,Soenenspark 35,Sint-Denijs-Westrem,Belgium,51.016533,3.6751356
+8.01001E+11,Schoonzichtstraat 12,Sint-Denijs-Westrem,Belgium,51.0143037,3.672279
+8.01001E+11,Wilgenstraat X 16,Merelbeke-Melle,Belgium,50.9853315,3.7362835
+8.01001E+11,Bruggesteenweg 99,Wingene,Belgium,51.0784018,3.351336
+8.01001E+11,Antoon Catriestraat 166,Drongen,Belgium,51.0614295,3.6364546
+8.01001E+11,Bouwmeestersstraat 38,Sint-Amandsberg,Belgium,51.0505191,3.7486687
+8.01001E+11,Kollekasteelstraat 29,Mariakerke,Belgium,51.0774462,3.6894137
+8.01001E+11,Bremstraat 1 / 5,Sint-Niklaas,Belgium,51.1746255,4.1376541
+8.01001E+11,Kuipstraat 44a,Ertvelde,Belgium,51.1767629,3.7383679
+8.01001E+11,Motsenstraat 140,Merelbeke-Melle,Belgium,50.9704651,3.744434
+8.01001E+11,Arthur Verhaegenstraat 15,Gent,Belgium,51.0263919,3.7059649
+8.01001E+11,Blekerijstraat 24,Oudenaarde,Belgium,50.8501256,3.6078454
+8.01001E+11,Vier-Gekroondenstraat 63,Zwijnaarde,Belgium,51.0088076,3.7166069
+8.01001E+11,Fibulaplein 34,Gent,Belgium,51.0732894,3.7486879
+8.01001E+11,Schaapsdreef 36,Kortrijk,Belgium,50.8004367,3.2905422
+8.01001E+11,Dikkelindestraat 128,Wondelgem,Belgium,51.0801793,3.7063519
+8.01001E+11,Draaikonk 12,Brakel,Belgium,50.7907043,3.7220338
+8.01001E+11,Sint-Michielsplein 10 / L,Gent,Belgium,51.0534131,3.7190995
+8.01001E+11,Wijmenstraat 95,Impe,Belgium,50.954304,3.9466294
+8.01001E+11,Blankenbergse Steenweg 8 / 0301,Brugge,Belgium,51.2203286,3.2082513
+8.01001E+11,Zwaluwlaan 5,Nazareth-De Pinte,Belgium,50.9901235,3.6388172
+8.01001E+11,Teerlingstraat 32 / 3A,Aalter,Belgium,51.0871713,3.4520723
+8.01001E+11,Zonnebloemstraat 14,Lovendegem,Belgium,51.103847,3.63832
+8.01001E+11,Salviastraat 67,Sint-Amandsberg,Belgium,51.061804,3.7559425
+8.01001E+11,Kievithof 4,Lochristi,Belgium,51.0954305,3.8434178
+8.01001E+11,Rodtstraat 70,Oordegem,Belgium,50.9614992,3.9004693
+8.01001E+11,Caildenberg 1,Zwalm,Belgium,50.8582962,3.7042191
+8.01001E+11,Heerweg-Zuid 235,Zwijnaarde,Belgium,50.9949465,3.7058246
+8.01001E+11,Gouvernementstraat 26,Aalter,Belgium,51.0913009,3.4495038
+8.01001E+11,Kerkstraat 83A,Anzegem,Belgium,50.8367441,3.476002
+8.01001E+11,Onafhankelijkheidsstraat 6,Oostende,Belgium,51.2127781,2.9040041
+8.01001E+11,Koutermolenstraat 21 b,Kortemark,Belgium,51.0343432,3.0329211
+8.01001E+11,Stekenestraat 31,Stekene,Belgium,51.204322,4.0676734
+8.01001E+11,Kleinveld 11,Asper,Belgium,50.920813,3.6475729
+8.01001E+11,Steenweg op Aalst 49,Zottegem,Belgium,50.8989514,3.8202773
+8.01001E+11,Heilig-Hartlaan 22 / 0,Oostende,Belgium,51.2219832,2.904685
+8.01001E+11,Rodeleeuwstraat 12,Ledeberg,Belgium,51.0342016,3.734306
+8.01001E+11,Veldstraat 39,Sint-Michiels,Belgium,51.1914486,3.2093678
+8.01001E+11,Bijlokevest 21,Gent,Belgium,51.0468602,3.7138207
+8.01001E+11,Brandstraat 42,Machelen (O.-Vl.),Belgium,,
+8.01001E+11,Gavergrachtstraat 3,Drongen,Belgium,51.0662004,3.6240031
+8.01001E+11,Langbeenstraat 11,Oudenaarde,Belgium,50.8666651,3.636958
+8.01002E+11,Schildersstraat 5 / 102,Sint-Amandsberg,Belgium,51.0521403,3.7463313
+8.01002E+11,Gaverstraat 13,Heusden (O.Vl.),Belgium,,
+8.01002E+11,Westergemstraat 176,Wondelgem,Belgium,51.082548,3.7109867
+8.01002E+11,Gezondheidstraat 3,Gent,Belgium,51.0662226,3.7012983
+8.01002E+11,Gasthuisveldstraat 23,Mechelen,Belgium,51.0376189,4.4797808
+8.01002E+11,Pooles Park 30,London,Belgium,,
+8.01002E+11,Veldstraat 98,Damme,Belgium,51.2089127,3.3075026
+8.01002E+11,Staakstraat 6,Sint-Andries,Belgium,51.1963916,3.1700399
+8.01002E+11,Ladywalk 7,Cambridge,Belgium,,
+8.01002E+11,Noorderbiesten 12,Eke,Belgium,50.9584143,3.630861
+8.01002E+11,Kelderijstraat 16,Zwijnaarde,Belgium,50.9962391,3.7120603
+8.01002E+11,Sint-Fledericusstraat 31 / b,Vlierzele,Belgium,50.9439097,3.9027009
+8.01002E+11,Tussen Bermen 29,Gent,Belgium,51.0308151,3.7314756
+8.01002E+11,Brusselsesteenweg 364,Wetteren,Belgium,50.9784073,3.8564685
+8.01002E+11,Polderdreef 41 / B,Nazareth-De Pinte,Belgium,50.9888034,3.6611827
+8.01002E+11,Hundelgemsesteenweg 377,Gentbrugge,Belgium,51.0254392,3.74892
+8.01002E+11,Kamdriesstraat 25,Hofstade (O.-Vl.),Belgium,,
+8.01002E+11,Vosseslag 12,De Haan,Belgium,51.2512933,3.009598
+8.01002E+11,Volpenswege 62,Evergem,Belgium,51.1525373,3.6940077
+8.01002E+11,Moortelhoekstraat 11,Belsele,Belgium,51.1588888,4.0956528
+8.01002E+11,Maaltebruggestraat 99,Gent,Belgium,51.0301615,3.7104805
+8.01002E+11,Wolvengracht 46,Mariakerke,Belgium,51.0854987,3.6831528
+8.01002E+11,Amblèvestraat 10,Torhout,Belgium,51.0679212,3.1129489
+8.01002E+11,Kempstraat 37,Gent,Belgium,51.0671069,3.6896347
+8.01002E+11,Admiraalstraat 9,Destelbergen,Belgium,51.0544317,3.7702623
+8.01002E+11,Antoon Catriestraat 111,Drongen,Belgium,51.0572351,3.6426087
+8.01002E+11,Frans Louwersstraat 16,Wondelgem,Belgium,51.0902859,3.7072639
+8.01002E+11,pannenstraat 264,Heist-aan-Zee,Belgium,51.3376039,3.2512158
+8.01002E+11,Burggravenlaan 290,Gent,Belgium,51.0317879,3.7295916
+8.01002E+11,Eksterhof 20,Nazareth-De Pinte,Belgium,50.9889584,3.6336984
+8.01002E+11,Plantinstraat 5,Tielt,Belgium,50.9930557,3.3219501
+8.02E+11,Overimpestraat 113,Lede,Belgium,50.9583384,3.9656579
+8.02E+11,Wittelinkstraat 20,Gent,Belgium,51.0714989,3.6968883
+8.02E+11,kruisstraat 26,Drongen,Belgium,51.0611,3.6545589
+8.02E+11,Nelestraat 4,Gentbrugge,Belgium,51.0340003,3.7739726
+8.02E+11,Ward De Bockstraat 77,Lokeren,Belgium,51.1145189,3.9634963
+8.02E+11,Vrijheidstraat 124,Oostende,Belgium,51.2124454,2.9047805
+8.02E+11,Vijverhof 22,Gentbrugge,Belgium,51.027681,3.7548538
+8.02E+11,Rommeldonkstraat 19,Evergem,Belgium,51.120236,3.6769516
+8.02E+11,Sousbeekstraat 92 / 201,Waasmunster,Belgium,51.1142307,4.0422716
+8.02E+11,Kievitlaan 33,Gent,Belgium,51.0303232,3.7267275
+8.02E+11,Pieter Colpaertsteeg 55,Gent,Belgium,51.0540777,3.7065624
+8.02E+11,Sint-Andriessteenweg 177,Zottegem,Belgium,50.868257,3.7897731
+8.02E+11,Kikvorsstraat 244,Gent,Belgium,51.0224978,3.7146196
+8.02E+11,Zuiderboomgaard 9,Assebroek,Belgium,51.1981064,3.2428758
+8.02E+11,Kruisstraat 58A,Drongen,Belgium,51.0576201,3.6477042
+8.02E+11,Voskenslaan 145,Gent,Belgium,51.0309507,3.7066096
+8.02E+11,Lodewijk De Raetstraat 4,Sint-Denijs-Westrem,Belgium,51.0265085,3.6678961
+8.02001E+11,Burgemeester Vermeulenlaan 24,Lochristi,Belgium,51.0988907,3.8361551
+8.02001E+11,Steppestede 35A,Sint-Denijs-Westrem,Belgium,51.0156925,3.6672173
+8.02001E+11,Kortrijksesteenweg 183,Petegem-aan-de-Leie,Belgium,50.9730352,3.5195901
+8.02001E+11,Petegemstraat 59,Machelen (O.-Vl.),Belgium,,
+8.02001E+11,Spellewerkstraat 126 / W,Mariakerke,Belgium,51.0715808,3.6873936
+8.02001E+11,De Sombe 30,Waasmunster,Belgium,51.115837,4.1321897
+8.02001E+11,Beelbroekhof 125,Sint-Amandsberg,Belgium,51.0700017,3.7954208
+8.02001E+11,Onderbergen 4 / F,Gent,Belgium,51.0528884,3.7195223
+8.02001E+11,Zuster Clarastraat 37,Ichtegem,Belgium,51.079718,3.0290241
+8.02001E+11,Stationsstraat 173 / 3A,Aalter,Belgium,51.089861,3.4470073
+8.02001E+11,Emanuel Hielstraat 58,Gentbrugge,Belgium,51.0439509,3.7588541
+8.02001E+11,Peerstraat 12,Gent,Belgium,51.0594471,3.692519
+8.02001E+11,Sint Kristoffelstraat 5,Londerzeel,Belgium,51.0066701,4.3086474
+8.02001E+11,Leeuwentandstraat 50,Sint-Andries,Belgium,51.1861284,3.1728903
+8.02001E+11,Nederkouter 52,Wichelen,Belgium,51.0137103,3.9697618
+8.02001E+11,Ferdinand Lousbergskaai 101C 302,Gent,Belgium,51.0508388,3.7371615
+8.02001E+11,Henri Dunantlaan 18 / 401,Gent,Belgium,51.0510637,3.7002118
+8.02001E+11,Graaf H. Goethalslaan 14,Nazareth-De Pinte,Belgium,50.9879623,3.6565521
+8.02001E+11,Veegang 17,Asse,Belgium,50.9209045,4.1793767
+8.02001E+11,Kalootstraat 28,Borssele,Belgium,,
+8.02002E+11,Nieuwe Boekhoutestraat 28 / 4,Bassevelde,Belgium,51.2324194,3.6845791
+8.02002E+11,Duifhuisstraat 14,Gent,Belgium,51.0392767,3.7046968
+8.02002E+11,Aannemersstraat 26,Sint-Amandsberg,Belgium,51.0496901,3.7466483
+8.02002E+11,Broekestraat 43B,Sint-Maria-Horebeke,Belgium,50.8459098,3.6984911
+8.02002E+11,Dendermondesteenweg 346,Destelbergen,Belgium,51.0562757,3.7910625
+8.02002E+11,Dalstraat 42,Sint-Niklaas,Belgium,51.1648598,4.135332
+8.02002E+11,Nieuwescheldestraat 57 / 1,Zwijnaarde,Belgium,51.0139464,3.7345276
+8.02002E+11,Hubert Frere - Orbanlaan 167 / 201,Gent,Belgium,51.0431078,3.734828
+8.02002E+11,Schoubroek 40,Mariakerke,Belgium,51.0822181,3.6763014
+8.02002E+11,Begijnengracht 19 / C,Gent,Belgium,51.0562057,3.7126164
+8.02002E+11,Etienne Rogiersstraat 11,Lokeren,Belgium,51.0940516,4.0025901
+8.02002E+11,Boekhoutstraat 125,Affligem,Belgium,50.9188377,4.1062514
+8.02002E+11,Wetterstraat 29 / C11,Wetteren,Belgium,50.9974602,3.8594
+8.02002E+11,Welvaartstraat 8,Gent,Belgium,51.0678114,3.6997419
+8.02002E+11,Kortrijksesteenweg 228,Gent,Belgium,50.9707219,3.5178676
+8.02002E+11,Nedergemlaan 32,Eppegem,Belgium,50.9666804,4.4587001
+8.02002E+11,Groot Hagelkruis 212 / 1,Ekeren,Belgium,51.2755572,4.4123195
+8.02002E+11,Schoolstraat 19,Merelbeke-Melle,Belgium,50.9639442,3.7501091
+8.02002E+11,Zoutstraat 27,Gent,Belgium,51.0475528,3.7213506
+8.02002E+11,Kollekasteelstraat 29,Mariakerke,Belgium,51.0774462,3.6894137
+8.02002E+11,Edith Cavellstraat 7 / 1,Gentbrugge,Belgium,51.0356715,3.760342
+8.02002E+11,Vina Bovypark 39,Gent,Belgium,51.0353075,3.7057991
+8.02002E+11,Rozenstraat 147,Lokeren,Belgium,51.1129832,4.0143326
+8.02002E+11,Weefstraat 6 / F,Eke,Belgium,50.9714108,3.6541615
+8.02002E+11,Populierenhof 48,Merelbeke-Melle,Belgium,50.9821993,3.7355083
+8.02002E+11,Vijverstraat(HEU) 36,Destelbergen,Belgium,,
+8.02002E+11,Hugo Verriestlaan 19,Nazareth-De Pinte,Belgium,50.99011,3.6618715
+8.02002E+11,Vuilstraat 42,Smeerebbe-Vloerzegem,Belgium,50.8145114,3.916021
+8.02003E+11,Baanhofstraat 25,Oostende,Belgium,51.20342,2.9315709
+8.02003E+11,Den Bunker 2,Astene,Belgium,50.9829642,3.5733123
+8.02003E+11,Godelieve Joliestraat 36,Oostakker,Belgium,51.101151,3.7751207
+8.02003E+11,Nieuwstraat 15,Nazareth-De Pinte,Belgium,50.9865904,3.6434023
+8.02003E+11,Molenstraat 117,Merelbeke-Melle,Belgium,50.971602,3.7174835
+8.02003E+11,Renbaanstraat 15,Gent,Belgium,51.0431442,3.6995035
+8.02003E+11,Dreef 13,Scheldewindeke,Belgium,50.9411283,3.783931
+8.02003E+11,Burg. Van Gansberghelaan 45,Merelbeke-Melle,Belgium,50.9747987,3.769411
+8.02003E+11,Oscar de Reusestraat 47,Sint-Amandsberg,Belgium,51.0621365,3.7571308
+8.02003E+11,Poelstraat 210,Merelbeke-Melle,Belgium,50.9699249,3.7600819
+8.02003E+11,Vrijdagmarkt 49 / 3,Gent,Belgium,51.0573841,3.725703
+8.02003E+11,Wulleputstraat 52 / c,Lichtervelde,Belgium,51.0196792,3.1402012
+8.02003E+11,Nadine Crappéstraat 22 / 101,Gent,Belgium,51.0541866,3.6895279
+8.02003E+11,Dreef 13,Scheldewindeke,Belgium,50.9411283,3.783931
+8.02003E+11,Klaverstraat 53,Merelbeke-Melle,Belgium,51.0051048,3.7866477
+8.02003E+11,Franklin Rooseveltlaan 235 / H,Gent,Belgium,51.0453104,3.7308879
+8.02003E+11,Zwevegemstraat 168,Otegem,Belgium,50.8076746,3.4219595
+8.02003E+11,Remi Vlerickstraat 32,Zwijnaarde,Belgium,51.000304,3.7139257
+8.02003E+11,Heerweg-Noord 135,Zwijnaarde,Belgium,51.005225,3.7157226
+8.02003E+11,Zwarte Reke 13,Heule,Belgium,50.8416236,3.2286922
+8.02003E+11,Steenweg 239,Nazareth-De Pinte,Belgium,50.9660461,3.655693
+8.02003E+11,Gasthuisstraat 18,Oostakker,Belgium,51.1046903,3.7662811
+8.02003E+11,Aannemersstraat 204,Sint-Amandsberg,Belgium,51.0498394,3.7523356
+8.02003E+11,Voordries 15,Gentbrugge,Belgium,51.0415957,3.7657754
+8.02003E+11,Wazenaarstraat 18,Ledeberg,Belgium,51.0408414,3.7457928
+8.02003E+11,Kalishoekstraat  55,Melsele,Belgium,51.2225757,4.2830519
+8.02003E+11,Jules Mac Leodstraat 22,Ledeberg,Belgium,,
+8.02003E+11,Brabantdam 78 / b,Gent,Belgium,51.04931,3.7335252
+8.02003E+11,Roggeveld 16,Belsele,Belgium,51.1452484,4.0673894
+8.02003E+11,Patijntjestraat 1A / 002,Gent,Belgium,51.0419778,3.7063273
+8.02004E+11,Odiel Spruyttestraat 28,Izegem,Belgium,50.9103236,3.2040477
+8.02004E+11,Portugalstraat 5 / 202,Gent,Belgium,51.0580998,3.7047549
+8.02004E+11,Gulden-Peerdenstraat 36,Assebroek,Belgium,51.1998527,3.2436117
+8.02004E+11,Campagnestraat 5,Merelbeke-Melle,Belgium,50.9585766,3.7003546
+8.02004E+11,Wolfputstraat 178,Oostakker,Belgium,51.0971386,3.7736386
+8.02004E+11,Nieuwstraat 32,Maldegem,Belgium,51.2075032,3.4465248
+8.02004E+11,Steendam 42 / 201,Gent,Belgium,51.0571627,3.7303795
+8.02004E+11,Nieuwpoort 23,Gent,Belgium,51.0563375,3.7294254
+8.02004E+11,Wetterstraat 21,Wetteren,Belgium,50.9977164,3.8595921
+8.02004E+11,Predikherenlei 4,Evergem,Belgium,51.1865477,3.7493756
+8.02004E+11,Koningin Astridlaan 156,Mechelen,Belgium,51.0235268,4.4711102
+8.02004E+11,Pintestraat 57 / 1,Nazareth-De Pinte,Belgium,50.9907664,3.6470639
+8.02004E+11,Schapenstraat 52,Oostende,Belgium,51.2115338,2.9117709
+8.02004E+11,Rid. A. Stas de Richellelaan 28,Merelbeke-Melle,Belgium,,
+8.02004E+11,Coupure Links 619,Gent,Belgium,51.0555586,3.7084869
+8.02004E+11,Frans Spaestraat 32,Gent,Belgium,51.0388595,3.7342701
+8.02004E+11,Heurnestraat 51,Oudenaarde,Belgium,50.8882982,3.6420841
+8.02004E+11,Nekkersberglaan 17,Gent,Belgium,51.0450321,3.6966434
+8.02004E+11,Burgstraat 99,Gent,Belgium,51.056182,3.7163927
+8.02004E+11,Salviapark 2 / 11,Nazareth-De Pinte,Belgium,50.9973668,3.6572992
+8.02004E+11,Kortrijksesteenweg 190 / 0101,Gent,Belgium,51.0055895,3.6246066
+8.02004E+11,Vina Bovypark 63,Gent,Belgium,51.0353075,3.7057991
+8.02004E+11,Via Bellaria 40,Meano,Belgium,,
+8.02004E+11,Driesstraat 1,Merelbeke-Melle,Belgium,51.0010788,3.7914371
+8.02004E+11,Leeuwentandstraat 30,Sint-Andries,Belgium,51.1846381,3.1748055
+8.02004E+11,Kerkhofstraat 10,Tessenderlo-Ham,Belgium,51.1059585,5.178204
+8.02004E+11,Donk 17,Rijkevorsel,Belgium,51.3432867,4.7663579
+8.02004E+11,Foreestelaan 18 / 102,Gent,Belgium,51.0315024,3.7332678
+8.02004E+11,Franklin Rooseveltlaan 206,Gent,Belgium,51.0457302,3.7306531
+8.02004E+11,Gaverstraat 13,Heusden (O.Vl.),Belgium,,
+8.02004E+11,Heerweg-Zuid 208,Zwijnaarde,Belgium,50.9952007,3.7053827
+8.02004E+11,Vanden Cortputstraat 10,Vorst,Belgium,,
+8.02004E+11,Hans Memlingstraat 21,Schoten,Belgium,51.2438557,4.4761987
+8.02004E+11,Johanna-Kirchner-Strasse 46,Lueneburg,Belgium,,
+8.02004E+11,Meirbeekstraat 36,Aalst,Belgium,50.9818116,4.053567
+8.02004E+11,Sint-Katelijnestraat 14,Gent,Belgium,51.0590085,3.728212
+8.02004E+11,Oude Brusselseweg 71 / D000,Ledeberg,Belgium,,
+8.02004E+11,Hertstraat 30/0301,Gent,Belgium,,
+8.02004E+11,Wittemolenstraat 101,Sint-Amandsberg,Belgium,51.0548948,3.7474075
+8.02004E+11,Brusselsesteenweg 210 / c,Lebbeke,Belgium,50.9905653,4.1353849
+8.02004E+11,Grote Wede 10 / 202,Sint-Amandsberg,Belgium,51.0478295,3.752946
+8.02004E+11,Stijn Streuvelslaan 3,Sint-Denijs-Westrem,Belgium,51.0280272,3.6825368
+8.02004E+11,Grote Heirenthoek 43,Landegem,Belgium,51.0644899,3.5613481
+8.02004E+11,Pollepelstraat 12,Gent,Belgium,51.0482523,3.7241602
+8.02004E+11,Olmendijkweg 5,Philippine,Belgium,,
+8.02004E+11,Prinses Marie-Joséstraat 8,Sint-Niklaas,Belgium,51.1702147,4.1527109
+8.02004E+11,BOGAARDENSTRAAT 5A,Oud-Heverlee,Belgium,50.837373,4.6620798
+8.02004E+11,Lakenmeerstraat 40,Nazareth-De Pinte,Belgium,50.9725594,3.6410124
+8.02004E+11,Bulkendreef 53,Oudenaarde,Belgium,50.8541163,3.6129967
+8.02004E+11,Dijlestraat 19,Keerbergen,Belgium,50.9941132,4.6403285
+8.02004E+11,Heernislaan 25 / 101,Gent,Belgium,51.0502514,3.7426463
+8.02004E+11,Kongostraat 15,Sint-Niklaas,Belgium,51.160558,4.1420804
+8.02004E+11,Stadenstraat 100,Roeselare,Belgium,50.956948,3.1024915
+8.02004E+11,Nadine Crappéstraat 57,Gent,Belgium,51.0544909,3.6919531
+8.02004E+11,Uilkensstraat 12,Gent,Belgium,51.0314038,3.7245965
+8.02004E+11,Koning Willem I-kaai 5,Gent,Belgium,51.0574415,3.7318541
+8.02004E+11,Jan-Baptist Guinardstraat 29,Gent,Belgium,51.0468829,3.7247012
+8.02004E+11,Ottergemsesteenweg 645,Gent,Belgium,51.034281,3.7278909
+8.02004E+11,Novaretzpad 20 / 401,Gent,Belgium,51.0307571,3.7339827
+8.02004E+11,Bauwerwaan 34,Zomergem,Belgium,51.1189034,3.5393031
+8.02004E+11,Rozemarijnstraat 34 / 201,Gent,Belgium,51.0495023,3.7066748
+8.02004E+11,Koningin Fabiolalaan 56F,Gent,Belgium,51.0381521,3.7049063
+8.02004E+11,Frans Ackermanstraat 22 / 085,Gent,Belgium,51.0529119,3.7327558
+8.02004E+11,Heerweg-Zuid 6,Zwijnaarde,Belgium,51.0027126,3.7136452
+8.02004E+11,Einde Were 62 / 203,Gent,Belgium,51.0524443,3.6999226
+8.02005E+11,Wellingstraat 14,Gent,Belgium,51.0251734,3.7962259
+8.02005E+11,Ter Platen 8 / 101,Gent,Belgium,51.0388542,3.7299806
+8.02005E+11,Speldenstraat 12 / 301,Gent,Belgium,51.0586774,3.7264333
+8.02005E+11,Don A. Chiesa 4,Caorso,Belgium,,
+8.02005E+11,Jinxiu Garden 14-502,nantong City -Jiangsu Province,Belgium,,
+8.02005E+11,Rue de l’Eglise 7,Ophain-Bois-Seigneur-Isaac,Belgium,50.6651689,4.3484917
+8.02005E+11,Coupure links 363,Gent,Belgium,51.049253,3.7112215
+8.02005E+11,Frank Bauerstraat 1,Gent,Belgium,,
+8.02005E+11,Holdaal 43,Gent,Belgium,51.0413001,3.7174381
+8.02005E+11,Biesemveldstraat 75,Aalter,Belgium,51.0723437,3.4336314
+8.02005E+11,Rue Lannoy 15 / 9,Elsene,Belgium,50.8256746,4.3704307
+8.02005E+11,Kleine Kerkhofstraat 72,Assebroek,Belgium,51.1927799,3.2432404
+8.02005E+11,Brandweerstraat 35 / 002,Gent,Belgium,51.060265,3.7194955
+8.02005E+11,Recolletenlei 24,Gent,Belgium,,
+8.02005E+11,Kokkelbeekstraat 21,Sint-Niklaas,Belgium,51.1628141,4.1417947
+8.02005E+11,Heiendestraat 87C,Lokeren,Belgium,51.0810233,3.9486521
+8.02005E+11,Groenenheuvel 57,Geel,Belgium,51.1645999,5.0106682
+8.02005E+11,Jozef Van Hulstraat 9,Melsele,Belgium,51.2239675,4.285592
+8.02005E+11,Rijsenbergstraat 128,Gent,Belgium,51.0413488,3.7039991
+8.02005E+11,Fritz De Beulestraat 52,Gent,Belgium,51.028236,3.7272136
+8.02005E+11,Kortrijksesteenweg 565,Gent,Belgium,51.0354418,3.7166826
+8.02005E+11,Rijvisschestraat 136 / 103,Zwijnaarde,Belgium,51.012056,3.6956896
+8.02005E+11,Grootbosstraat 137A,Alsemberg,Belgium,50.7464289,4.3248758
+8.02005E+11,Nederstraat 98,Bilzen-Hoeselt,Belgium,50.8792411,5.4772229
+8.02005E+11,Muinkkaai 47,Gent,Belgium,51.0442073,3.7289183
+8.02005E+11,"Qunle New Village, Lijiatuo Street 25",Chongqing,Belgium,,
+8.02005E+11,Hadewijchstraat 26,Brugge,Belgium,51.199047,3.2370177
+8.01001E+11,Rood Beeldekenstraat 50,Merelbeke-Melle,Belgium,50.9674855,3.7585646
+8.01002E+11,Lakenmeerstraat 44,Nazareth-De Pinte,Belgium,50.9728443,3.6406744
+8.02003E+11,Heiste 42,Landegem,Belgium,51.0662434,3.5841731
+8.02E+11,Pater Beckstraat 14,Kortrijk,Belgium,50.8203637,3.2661978
+8.02001E+11,Diepstraat 18,Loppem,Belgium,51.1331744,3.1727496
+8.02002E+11,Steenstraat 151,Heule,Belgium,50.851722,3.2252523
+8.02002E+11,Maïsstraat 14,Gent,Belgium,51.0682972,3.7084938
+8.02003E+11,Kwadries 29,Gullegem,Belgium,50.8475877,3.1999251
+8.02003E+11,Tenabele 15,Nukerke,Belgium,50.7704617,3.6071566
+8.02005E+11,Weidestraat 22,Ledeberg,Belgium,51.0340472,3.74621
+8.01001E+11,Koolmijnenkaai 30 / 34,Sint-Jans-Molenbeek,Belgium,50.8550546,4.3416978
+8.01001E+11,Kapellestraat 80,Tielt,Belgium,50.9454979,3.2844842
+8.01001E+11,Daknam-Dorp 79,Lokeren,Belgium,51.1271129,3.98373
+8.01002E+11,Papegaaistraat 51,Gent,Belgium,51.0505329,3.7134065
+8.02E+11,Evergemsesteenweg 60,Wondelgem,Belgium,51.0926841,3.7165856
+8.02E+11,Hoekstraat 77 / a,Lokeren,Belgium,51.1126317,3.9022856
+8.02E+11,Krijgem 4,Dendermonde,Belgium,51.0307576,4.0857834
+8.02001E+11,Oude Vaartstraat 14,Ieper,Belgium,50.851663,2.8744359
+8.02001E+11,Gérard Willemotlaan 12,Mariakerke,Belgium,51.0707936,3.690653
+8.02001E+11,Frans Segersstraat 50,Boechout,Belgium,51.1653234,4.4931804
+8.02001E+11,Zwijnaardsesteenweg 77,Merelbeke-Melle,Belgium,50.9987596,3.7415091
+8.02002E+11,Sint-Coletastraat 1 / A001,Gent,Belgium,51.0345907,3.7265841
+8.02002E+11,Oudleikestraat 22,Wingene,Belgium,51.0593267,3.4148999
+8.02003E+11,Achterdries 67,Gentbrugge,Belgium,51.0424798,3.7676679
+8.02003E+11,Gebroeders Vandeveldestraat 58 / A,Gent,Belgium,51.0505237,3.7177564
+8.02003E+11,Tuinwijk Jan Verhaegen 29,Merelbeke-Melle,Belgium,51.0142206,3.7564876
+8.02003E+11,Invalidenstraat 2c,Oostakker,Belgium,51.078845,3.7623361
+8.02003E+11,Brusselsesteenweg 666 / 0003,Gentbrugge,Belgium,51.0295104,3.7645298
+8.02004E+11,Dikkelindestraat 91,Wondelgem,Belgium,51.0772472,3.7074497
+8.02004E+11,Oude zak 4,Brugge,Belgium,51.2115113,3.220058
+8.02004E+11,Wielsbeeksestraat 59,Wielsbeke,Belgium,50.8950162,3.3404767
+8.02004E+11,Oude Houtlei 29,Gent,Belgium,51.053795,3.7166806
+8.02004E+11,Tenbosstraat 23 / 9,Elsene,Belgium,50.8210131,4.3612425
+8.02004E+11,Hubert Frère-Orbanlaan 613,Gent,Belgium,51.041393,3.7356397
+8.02004E+11,Virginiastraat 58,Gent,Belgium,51.066914,3.6925135
+8.02004E+11,Kerkstraat 22,Veltem-Beisem,Belgium,50.9020727,4.6143625
+8.02004E+11,Vandepoelelaan 19,Lichtervelde,Belgium,51.0289336,3.1298856
+8.02004E+11,Schriek 293,Ekeren,Belgium,51.290974,4.4398941
+8.02004E+11,Rue Gachard 41 / 1,Elsene,Belgium,50.8262435,4.3682351
+8.02004E+11,Hofstraat 351 / 201,Gent,Belgium,51.042888,3.7318824
+8.02004E+11,Haverstraat 22,Gent,Belgium,51.0659596,3.7064945
+8.02004E+11,Adinkerkelaan 10,De Panne,Belgium,51.0939164,2.5913369
+8.02004E+11,Nieuwe Steenweg 110A,Veulen,Belgium,50.7618842,5.3060235
+8.02005E+11,Pompstraat 7 / 2,Antwerpen,Belgium,51.2153258,4.3972575
+8.02005E+11,Doornikse Heerweg 18,Oudenaarde,Belgium,50.8588997,3.5986784
+8.02005E+11,Willem de Dekenstraat 36,Brugge,Belgium,51.2175175,3.221862
+8.02005E+11,De Cassinastraat 121,Deerlijk,Belgium,50.8497493,3.3434024
+8.02001E+11,Wetterstraat 21,Wetteren,Belgium,50.9977164,3.8595921
+8.02003E+11,Vagevuurstraat 20,Laarne,Belgium,51.030651,3.8345948
+8E+11,Vossenlaan 13,Beerse,Belgium,51.3061107,4.8594511
+8.01001E+11,Keizer Karelstraat 228,Gent,Belgium,51.0499322,3.7338585
+8.01001E+11,Oudenaardse Heerweg 11,Deerlijk,Belgium,50.8301304,3.3609323
+8.01001E+11,Grotesteenweg-Zuid 26C / 0202,Zwijnaarde,Belgium,50.9988193,3.6870634
+8.01001E+11,Huttestraat 4,Zwijnaarde,Belgium,50.998154,3.6839551
+8.01001E+11,Edekestraat 53,Deinze,Belgium,50.9843845,3.5717969
+8.01001E+11,Langenakkerlaan 39,Lochristi,Belgium,51.0981397,3.8575129
+8.01001E+11,Eggestraat 25,Deinze,Belgium,50.9683055,3.5409064
+8.01001E+11,Losweg 40A,Mariakerke,Belgium,51.0787409,3.6947757
+8.01001E+11,Ottergemstraat 21,Lierde,Belgium,50.7836028,3.8403861
+8.01001E+11,Eikelstraat 44,Nazareth-De Pinte,Belgium,50.9972376,3.6465995
+8.01001E+11,Vrijheid 2A,Geraardsbergen,Belgium,50.8198311,3.8836522
+8.01001E+11,Pieter Pruimstraat 11,Kachtem,Belgium,50.9355785,3.1872801
+8.01001E+11,Verkortingsweg 7,Lovendegem,Belgium,51.1052585,3.6189247
+8.01001E+11,De Visscherestraat 28,Aalst,Belgium,50.9424253,4.0324652
+8.01001E+11,Kortrijksestraat 3,Kuurne,Belgium,50.8487966,3.28588
+8.01001E+11,Bremenhulstraat 41,Serskamp,Belgium,50.9942664,3.9289016
+8.01001E+11,Vissersstraat 9,Harelbeke,Belgium,50.8299941,3.3059145
+8.01001E+11,Aststraat 85,Sint-Gillis-Waas,Belgium,51.2140075,4.1121339
+8.01001E+11,Ter Zwanekerke 33,Sint-Andries,Belgium,,
+8.01001E+11,Koningin Fabiolalaan 6,Nazareth-De Pinte,Belgium,50.9894947,3.6545831
+8.01001E+11,Waterhoenlaan 146,Wondelgem,Belgium,51.0960271,3.7107736
+8.01001E+11,Beekstraat 21A,Mariakerke,Belgium,51.0725162,3.660763
+8.01001E+11,Edekestraat 40,Deinze,Belgium,50.9855653,3.5722839
+8.01001E+11,Nijverheidsstraat 122,Dikkelvenne,Belgium,50.9213086,3.6790755
+8.01001E+11,Zijpstraat 75A,Hofstade (O.-Vl.),Belgium,,
+8.01001E+11,Vlieguit 18,Sint-Martens-Latem,Belgium,51.0028059,3.6373421
+8.01001E+11,Bosstraat 13,Merelbeke-Melle,Belgium,50.9502127,3.7312983
+8.01001E+11,Pontweg 42c,Daknam,Belgium,51.131097,3.9942196
+8.01001E+11,Ferdinand Lousbergskaai 74,Gent,Belgium,51.0508388,3.7371615
+8.01001E+11,Hoogstraat 53,Merelbeke-Melle,Belgium,50.9784398,3.7251655
+8.01001E+11,Orchideeënlaan 2,Sint-Andries,Belgium,51.1987954,3.2046593
+8.01001E+11,Wilgenstraat 20,Merelbeke-Melle,Belgium,50.9854067,3.7339783
+8.01002E+11,Acacialaan 32,Nazareth-De Pinte,Belgium,51.002422,3.6476182
+8.01002E+11,Chrysantenstraat 84,Merelbeke-Melle,Belgium,51.0011863,3.758788
+8.01002E+11,Gistelhofstraat 109,Langemark-Poelkapelle,Belgium,50.9369308,2.9176925
+8.01002E+11,Prinsenhof 105,Gent,Belgium,51.058785,3.7158494
+8.01002E+11,Durmen 245,Zele,Belgium,51.0863638,4.0583359
+8.01002E+11,Opwijksestraat 254,Lebbeke,Belgium,50.9913632,4.1391513
+8.01002E+11,Astridlaan 343,Assebroek,Belgium,51.1929866,3.2700182
+8.01002E+11,Valeer Van Kerkhovestraat 13,Sleidinge,Belgium,51.1275693,3.6727652
+8.01002E+11,Volderrede 58,Destelbergen,Belgium,51.060878,3.7922015
+8.01002E+11,Dulakkerweg 4,Deinze,Belgium,50.9975561,3.5476538
+8.01002E+11,Ten Rodelaan 103,Petegem-aan-de-Leie,Belgium,50.9728505,3.5417358
+8.01002E+11,Acacialaan 32,Nazareth-De Pinte,Belgium,51.002422,3.6476182
+8.01002E+11,E. Van Hoorebekestraat 90,Ledeberg,Belgium,,
+8.01002E+11,Hilarius Bertolfstraat 41,Ledeberg,Belgium,51.0366334,3.7463858
+8.01002E+11,Eikstraat 75,Machelen (O.-Vl.),Belgium,,
+8.01002E+11,Kattegaver 8,Drongen,Belgium,51.0581356,3.6266633
+8.01002E+11,Moerstraat 151,Dendermonde,Belgium,51.0093611,4.101149
+8.01002E+11,Peerstraat 183,Gent,Belgium,51.0634963,3.6908866
+8.01002E+11,Roe 28,Pollare,Belgium,50.8173042,4.0092659
+8.01002E+11,Kortrijkseheerweg 16,Nazareth-De Pinte,Belgium,50.9811467,3.6177738
+8.01002E+11,Nijverheidstraat 53,Sint-Amandsberg,Belgium,51.0515616,3.7451744
+8.02E+11,lodistraat 93,Hertsberge,Belgium,51.124129,3.2654997
+8.02E+11,Vierlinden 54,Evergem,Belgium,51.1178278,3.6979219
+8.02E+11,Zink 34,Munte,Belgium,50.9518037,3.7516647
+8.02E+11,Evenakker 6,Destelbergen,Belgium,51.0327182,3.816508
+8.02E+11,Lepelaarstraat 10 / 702,Antwerpen,Belgium,51.2169908,4.370854
+8.02E+11,Bareelstraat 33,Lokeren,Belgium,51.0893416,3.9099559
+8.02001E+11,Gaverstraatje 1,Wetteren,Belgium,51.0107107,3.83463
+8.02001E+11,Résidence Horlitin 10,Mont-de-l'Enclus,Belgium,50.7565533,3.5072767
+8.02001E+11,Ledebergstraat 40,Herzele,Belgium,50.8992641,3.8592079
+8.02001E+11,Koersveldlaan 14,Nazareth-De Pinte,Belgium,50.9895547,3.6511753
+8.02001E+11,Ypermanstraat 36,Ieper,Belgium,50.8579312,2.8978751
+8.02001E+11,Poelsnepstraat 21C,Gent,Belgium,51.0333729,3.7123986
+8.02001E+11,Jules Daemsstraat 19,Astene,Belgium,50.984176,3.5911447
+8.02001E+11,Gestichstraat 21,Gent,Belgium,,
+8.02001E+11,Notelaarstraat 21,Merelbeke-Melle,Belgium,50.9842222,3.7280944
+8.02001E+11,Heidelbergstraat 67,Sint-Michiels,Belgium,51.1749663,3.2254832
+8.02001E+11,Kapiteinstraat 116,Gent,Belgium,51.0888724,3.7208419
+8.02001E+11,Weidenstraat 88,Kuurne,Belgium,50.8537575,3.2961196
+8.02001E+11,Onderwijsstraat 11,Ledeberg,Belgium,51.0387681,3.7403171
+8.02001E+11,Baron van der Bruggenlaan 27A / 0101,Wielsbeke,Belgium,50.9100433,3.3704213
+8.02002E+11,Eendrachtstraat 132,Gent,Belgium,51.0476663,3.7440971
+8.02002E+11,Ten Bosse 6,Zottegem,Belgium,50.852308,3.7905313
+8.02002E+11,Groeningelei 9,Boechout,Belgium,51.157717,4.4861811
+8.02002E+11,Kapellestraat 27 / A,Kalken,Belgium,51.0303277,3.8836247
+8.02002E+11,Drongenstationstraat 49,Drongen,Belgium,51.0478208,3.6566414
+8.02002E+11,Park Te Poldere 7 / 12,Nazareth-De Pinte,Belgium,50.9904745,3.6515106
+8.02002E+11,Portugalstraat 9 / 301,Gent,Belgium,51.0580998,3.7047549
+8.02002E+11,Vossenholstraat 8B,Dikkelvenne,Belgium,50.9145034,3.6999612
+8.02002E+11,Voskenslaan 122 / 402,Gent,Belgium,51.0331057,3.7078648
+8.02002E+11,Begonialaan 28,Nazareth-De Pinte,Belgium,50.996544,3.6536944
+8.02002E+11,Kouter 62,Deinze,Belgium,50.9901352,3.5096649
+8.02002E+11,Kalkstraat 17,Anzegem,Belgium,50.8379051,3.4799936
+8.02002E+11,Oudenaardseweg 20,Wortegem-Petegem,Belgium,50.8532201,3.5117112
+8.02002E+11,Burgemeester Van Ackerwijk K 295,Zele,Belgium,51.0608713,4.0319054
+8.02002E+11,Durmstraat 33A,Mariakerke,Belgium,51.0867932,3.6840651
+8.02003E+11,Rue de Barbieux 4,Roubaix,Belgium,,
+8.02003E+11,Westmeers 2,Oedelem,Belgium,51.1743211,3.3319822
+8.02003E+11,Nieuwe dreef 2b,Aalter,Belgium,51.0969251,3.3725867
+8.02003E+11,Noenweideweg 5,Affligem,Belgium,50.9212917,4.0960521
+8.02003E+11,Sint Fledericus straat 6,Vlierzele,Belgium,50.9439097,3.9027009
+8.02003E+11,Patersstraat 46 / 0001,Eeklo,Belgium,51.1826221,3.5667528
+8.02003E+11,Heusdenbaan 2,Merelbeke-Melle,Belgium,51.0249063,3.7735865
+8.02003E+11,Doeninge 39,Nazareth-De Pinte,Belgium,50.9926112,3.633048
+8.02003E+11,Suzanne Lilarstraat 48,Gent,Belgium,51.0401927,3.698502
+8.02003E+11,Madeliefjesstraat 13,Gent,Belgium,51.0592523,3.6962025
+8.02003E+11,Zwijnaardsesteenweg 16,Merelbeke-Melle,Belgium,50.9986115,3.7424092
+8.02003E+11,Oudebareelstraat 68,Oostakker,Belgium,51.0764334,3.7737813
+8.02003E+11,Valleistraat 32,Roeselare,Belgium,50.9256274,3.1257365
+8.02003E+11,Gustaaf Callierlaan 236,Gent,Belgium,51.039202,3.7356009
+8.02003E+11,Kasteellaan 14,Nazareth-De Pinte,Belgium,50.9930864,3.6579751
+8.02003E+11,Sousbeekstraat 7,Waasmunster,Belgium,51.1093962,4.0506757
+8.02003E+11,Entrepotplaats 4 / 403,Antwerpen,Belgium,51.2276187,4.411629
+8.02003E+11,Colmanstraat 76 / /,Laarne,Belgium,51.0392238,3.8917956
+8.02003E+11,Geraardsbergsesteenweg 126,Merelbeke-Melle,Belgium,50.9827072,3.7974364
+8.02003E+11,Zandstraat 236A / 1,Sint-Pauwels,Belgium,51.2042838,4.0765494
+8.02003E+11,Eendrachtstraat 178,Gent,Belgium,51.047043,3.7449419
+8.02003E+11,Torrestraat 22,Machelen (O.-Vl.),Belgium,,
+8.02003E+11,Nieuwstraat 156,Hasselt,Belgium,50.9567083,5.3319915
+8.02003E+11,Kortrijksesteenweg 511 / 101,Gent,Belgium,51.0180487,3.6710209
+8.02003E+11,Bassijnstraat 21,Gentbrugge,Belgium,51.0446814,3.7485406
+8.02004E+11,Noendries 63 A,Gent,Belgium,51.0280989,3.7294829
+8.02004E+11,Beysstraat 157,Liedekerke,Belgium,50.8665079,4.0860016
+8.02004E+11,Passendaalsestraat 11,Moorslede,Belgium,50.8923839,3.0536098
+8.02004E+11,Sint-Pietersaalststraat 88B,Gent,Belgium,51.0308463,3.7145467
+8.02004E+11,Zwaneblomweg 10 / 101,Merelbeke-Melle,Belgium,,
+8.02004E+11,Noendries 63A,Gent,Belgium,51.0280989,3.7294829
+8.02004E+11,Gebroeders Vandeveldestraat 14,Gent,Belgium,51.0505604,3.7181313
+8.02004E+11,Uilkenstraat 83 / 001,Gent,Belgium,,
+8.02004E+11,Kliniekstraat 75,Gentbrugge,Belgium,51.0408563,3.7546655
+8.02004E+11,Oslostraat 3 / 203,Gent,Belgium,51.0743204,3.7292697
+8.02004E+11,Jan van Rijswijcklaan 271 / 7A,Antwerpen,Belgium,,
+8.02004E+11,Rooigemlaan 133,Gent,Belgium,51.0557146,3.6950244
+8.02004E+11,Noendries 49D,Gent,Belgium,51.0286065,3.7300455
+8.02004E+11,Torhoutse Steenweg 203 / BUS 2.01,Sint-Andries,Belgium,,
+8.02004E+11,Wolvenstraat 9 / 001,Merelbeke-Melle,Belgium,50.9993595,3.7926389
+8.02004E+11,Langveld 15,Waregem,Belgium,50.8838497,3.4483087
+8.02004E+11,Zarlardingestraat 73,Geraardsbergen,Belgium,50.7635673,3.8449004
+8.02004E+11,t Kruisken 9,Nazareth-De Pinte,Belgium,50.9867914,3.6661838
+8.02004E+11,Rozenhoed 22,Vinderhoute,Belgium,51.0889565,3.6469729
+8.02004E+11,jozef vervaenestraat 115,Ledeberg,Belgium,51.032827,3.7434213
+8.02004E+11,"Lodewijk De Meesterstraat 4, bus 010",Sint-Niklaas,Belgium,,
+8.02004E+11,Baarleboslaan 13,Drongen,Belgium,51.0344691,3.6048935
+8.02004E+11,Ooievaarstraat 41,Gent,Belgium,51.0580458,3.6996975
+8.02004E+11,Kerkstraat 35,Waarschoot,Belgium,51.1492835,3.6053809
+8.02004E+11,Trollblumenstrasse 2,München,Belgium,,
+8.02004E+11,Hutsepotstraat 188 / 304,Zwijnaarde,Belgium,51.0030411,3.714285
+8.02004E+11,Hagepreekstraat 25,Aalter,Belgium,51.0853338,3.4516895
+8.02004E+11,Tempelhof 52 / P4,Gent,Belgium,51.0593235,3.7215076
+8.02004E+11,IJskelderstraat 15 / A,Gent,Belgium,51.0629615,3.7088874
+8.02004E+11,Apostelhuizen 99 / 0003,Gent,Belgium,51.0515217,3.7341784
+8.02004E+11,Via Spinei 2,Lossato,Belgium,,
+8.02004E+11,Korenmarkt 30 / 302,Gent,Belgium,51.0546564,3.721915
+8.02004E+11,Sint-Pietersplein 24,Gent,Belgium,51.0415206,3.7258694
+8.02004E+11,Burggravenlaan 280,Gent,Belgium,51.0317797,3.7285626
+8.02004E+11,President Rooseveltplein 10 / 21,Kortrijk,Belgium,50.8282175,3.2606048
+8.02004E+11,Gavervijver 31,Torhout,Belgium,51.0829067,3.1025789
+8.02004E+11,Bremstraat 77 / 2,Sint-Niklaas,Belgium,51.1728516,4.1390933
+8.02004E+11,Voskenslaan 254,Gent,Belgium,51.0316787,3.7066914
+8.02004E+11,Kaperij 4,Schorisse,Belgium,50.7936248,3.6841045
+8.02004E+11,Sint-Annastraat 8,Gent,Belgium,51.0469857,3.7333313
+8.02004E+11,Heerweg-Zuid 186 / 302,Zwijnaarde,Belgium,50.9990598,3.709269
+8.02004E+11,Lavendelstraat 83,Gent,Belgium,51.070808,3.7069326
+8.02004E+11,Gustaaf Callierlaan 74 / 303,Gent,Belgium,51.039202,3.7356009
+8.02004E+11,Meersstraat 42 / 002,Gent,Belgium,51.0396178,3.7946249
+8.02004E+11,Dudzeelse Steenweg 463,Dudzele,Belgium,51.2585773,3.225311
+8.02004E+11,Louis van Houttestraat 34,Gentbrugge,Belgium,51.0428095,3.7457977
+8.02004E+11,Henri dunantlaan 22 / 302,Gent,Belgium,51.0488821,3.7033826
+8.02004E+11,Waterkluiskaai 12 / 102,Sint-Amandsberg,Belgium,51.0469154,3.7531656
+8.02004E+11,Tulpstraat 46,Gent,Belgium,51.0618457,3.6973663
+8.02004E+11,Rooigemlaan 588,Gent,Belgium,51.0655519,3.6988333
+8.02004E+11,Fortlaan 26 / H,Gent,Belgium,51.0357862,3.717923
+8.02004E+11,Sint-Annaplein 30,Gent,Belgium,51.0499147,3.734692
+8.02004E+11,Zandstraat 32F,Zomergem,Belgium,51.1162106,3.5660732
+8.02004E+11,Jenny Tanghestraat 5 / 403,Ledeberg,Belgium,51.0359921,3.734519
+8.02004E+11,Slypsstraat 30,Moorslede,Belgium,50.8859802,3.0694839
+8.02004E+11,Opvoedingstraat 125,Gent,Belgium,51.0287034,3.7234822
+8.02004E+11,Nanovestraat 111,Opwijk,Belgium,50.9635349,4.184497
+8.02004E+11,Prinses Clementinalaan 16 / A,Gent,Belgium,51.0350592,3.7157404
+8.02004E+11,Kortrijksesteenweg 249,Gent,Belgium,51.0388009,3.7164037
+8.02004E+11,Bijlokevest 143,Gent,Belgium,51.0480947,3.7106295
+8.02004E+11,Schansstraat 18,Heusden-Zolder,Belgium,51.039234,5.2881989
+8.02004E+11,Ganzendries 158,Gent,Belgium,51.0335142,3.711283
+8.02004E+11,Ommegangstraat 62,Lochristi,Belgium,51.0857925,3.8504803
+8.02005E+11,Hendrick Haangestraat 7,Mariakerke,Belgium,,
+8.02005E+11,Markt 10 / 2,Geraardsbergen,Belgium,50.7714139,3.8827826
+8.02005E+11,Kortrijksesteenweg 244,Gent,Belgium,50.9697012,3.5169728
+8.02005E+11,Bankelindeweg 42,Poperinge,Belgium,50.9136695,2.688776
+8.02005E+11,Keizervest 164,Gent,Belgium,51.0385741,3.7367465
+8.02005E+11, Brusselsepoortstraat 90,Gent,Belgium,51.0427843,3.7374378
+8.02005E+11,Kon. Maria Hendrikaplein 55,Gent,Belgium,51.0375001,3.7104819
+8.02005E+11,"Chemin du Nant de-crève-cœur, 16",Versoix,Belgium,,
+8.02005E+11,Herentalsstraat 4 / b003,Turnhout,Belgium,51.3218974,4.9490699
+8.02005E+11,Meenseweg 105,Ieper,Belgium,50.8503095,2.9019463
+8.02005E+11,Gatti de Gamondstraat 17,Gent,Belgium,51.0603066,3.6905367
+8.02005E+11,Rue Henri Evenpoel 115,Schaarbeek,Belgium,,
+8.02005E+11,Charles De Kerchovelaan 43,Gent,Belgium,51.0390218,3.7248261
+8.02005E+11,Hendrik van Brederodestraat 12A,Gent,Belgium,51.0382083,3.7165941
+8.02005E+11,Stationsstraat 19,Wetteren,Belgium,51.0039915,3.8837594
+8.02005E+11,Wilgenhof 38,Zwevezele,Belgium,51.0362628,3.2202657
+8.02005E+11,De Pintelaan 205A,Gent,Belgium,51.0265314,3.7211587
+8.02005E+11,Muilenstraat 242,Liedekerke,Belgium,50.8787448,4.0996241
+8.02005E+11,Fleurusstraat 18,Gent,Belgium,51.030245,3.716868
+8.02005E+11,Kleinveldweg 2,Lubbeek,Belgium,50.8627019,4.8195058
+8.02005E+11,Sint-Claradreef 59,Brugge,Belgium,51.2188164,3.2228178
+8.02005E+11,Travessa Areeiro 127,Santa Maria da Feira,Belgium,,
+8.02005E+11,Rue des Cordelières 18,Paris,Belgium,,
+8.02005E+11,Mercuriusstraat 6,Lokeren,Belgium,51.0944987,3.9887337
+8.02005E+11,Kouterstraat 25,Zottegem,Belgium,50.8903926,3.8037271
+8.02005E+11,Schoonmeerstraat 23 / B201,Gent,Belgium,,
+8.01001E+11,Putten 4,Sleidinge,Belgium,51.1532506,3.6743476
+8.01001E+11,Teerlingstraat 32 / 2D,Aalter,Belgium,,
+8.01002E+11,Martijn Van Torhoutstraat 41,Ename,Belgium,50.8511483,3.6265801
+8.01002E+11,Oefenpleinstraat 31,Merelbeke-Melle,Belgium,51.0237925,3.783393
+8.01002E+11,Vijverdamstraat 33,Waregem,Belgium,50.8644627,3.4357047
+8.02E+11,Yvonne Desirantstraat 26,Wondelgem,Belgium,51.091654,3.7051512
+8.02001E+11,Virginiastraat 12,Gent,Belgium,51.0657753,3.6907837
+8.02001E+11,Kortrijkstraat 146,Zwevegem,Belgium,50.8154862,3.3102403
+8.02003E+11,tuinwijk jan verhaegen 83,Merelbeke-Melle,Belgium,51.0141289,3.7592611
+8.02003E+11,Rue de Naples 14,Ixelles,Belgium,50.8374324,4.3653008
+8.02004E+11,Edekestraat 71,Astene,Belgium,50.9852111,3.5731614
+8.02004E+11,Violierstraat 87,Gent,Belgium,51.0612951,3.6939824
+8.02005E+11,Bagatten 1,Gent,Belgium,51.0475278,3.7220828
+8.01001E+11,Akkerstraat 28,Gent,Belgium,51.1909764,3.8517012
+8.01002E+11,Stationsstraat 10 / 0101,Landegem,Belgium,51.0667878,3.5770696
+8.02003E+11,Atlantische Oceaanlaan 128 / 5,Sint-Pieters-Woluwe,Belgium,50.8289686,4.4183441
+8.02003E+11,Blauwstraat 94,Wondelgem,Belgium,51.0856919,3.706872
+8.02004E+11,Kortrijkstraat 12 / 1/1,Sint-Michiels,Belgium,51.1793742,3.2338332
+8.02004E+11,Rue de Vergnies 16,Elsene,Belgium,50.8293682,4.3709399
+8.02004E+11,Lei 33 / 301,Leuven,Belgium,50.881675,4.6968335
+8.01001E+11,Proefhoevestraat 14,Merelbeke-Melle,Belgium,50.9768872,3.8281378
+8.01001E+11,Borsbekestraat 150,Ressegem,Belgium,50.9011799,3.8975331
+8.01001E+11,Kallestraat 8,Kruisem,Belgium,50.9006082,3.5804174
+8.01001E+11,Stormestraat 21,Waregem,Belgium,50.8860573,3.4304543
+8.01001E+11,Vrouwestraat 7,Eeklo,Belgium,51.2034263,3.5355861
+8.02E+11,Brandemanstraat 62,Laarne,Belgium,51.0439373,3.8543661
+8.02003E+11,Kapittel 8,Brakel,Belgium,50.8296553,3.7798204
+8.01001E+11,Meerstraat 60,Oosterzele,Belgium,50.953866,3.8021047
+8.02003E+11,Hullendriesstraat 20,Heusden (O.Vl.),Belgium,,
+8.02004E+11,Spermaliestraat 270,Slijpe,Belgium,51.1570189,2.836579
+8.01001E+11,Morelgem 12,Vlierzele,Belgium,50.9219514,3.8961447
+8.01002E+11,Wolterslaan 137,Sint-Amandsberg,Belgium,51.0484442,3.7504389
+8.01002E+11,Grotenbergestraat 165,Grotenberge,Belgium,50.8731355,3.8290947
+8.02003E+11,Noordstraat 1 / 15,Gent,Belgium,51.0571632,3.7087519
+8.02003E+11,Zhakipova Street 57,Karakol,Belgium,,
+8.02003E+11,Sint-Pietersaalstraat 58,Gent,Belgium,,
+8.02004E+11,Warandestraat 52 / 101,Gent,Belgium,51.05761,3.7370921
+8.02004E+11,Verpleegstersstraat 251,Gent,Belgium,51.0392367,3.7008285
+8.02004E+11,Ijskelderstraat 30 / 3,Gent,Belgium,51.0629615,3.7088874
+8.02004E+11,Ajuinlei 15,Gent,Belgium,51.0512749,3.7200298
+8.02004E+11,Leysstraat 11 / 202,Antwerpen,Belgium,51.218321,4.4134641
+8.02004E+11,Hofstraat 111,Gent,Belgium,51.0462378,3.7298787
+8.02005E+11,Grondwetlaan 34,Sint-Amandsberg,Belgium,51.0667416,3.7524235
+8.02005E+11,Veldstraat 12,Eeklo,Belgium,51.183079,3.586483
+8.02005E+11,Portugalstraat 5 / 302,Gent,Belgium,51.0580998,3.7047549
+8.01001E+11,Grensstraat 83,Gent,Belgium,51.0755118,3.705296
+8.01001E+11,Roderoestraat 11,Gent,Belgium,51.0487409,3.7107507
+8.01001E+11,Duifhuisstraat 44,Kruishoutem,Belgium,50.9373006,3.5328453
+8.01002E+11,Lieven De Winnestraat 50,Gent,Belgium,51.0490425,3.7141291
+8.01002E+11,Scheldeweg 64,Gontrode,Belgium,50.984477,3.7857046
+8.01002E+11,Bruiloftstraat 68,Gentbrugge,Belgium,51.0333028,3.7701988
+8.02E+11,Kantonstraat 30,Nieuwerkerken,Belgium,50.9260271,4.0076691
+8.02E+11,Nieuwenhovestraat 41,Waregem,Belgium,50.8645893,3.39911
+8.02001E+11,Kerselarenlaan 16,Zulte,Belgium,50.909198,3.4541602
+8.02001E+11,Rozenlaan 2,Drongen,Belgium,51.0569428,3.6487343
+8.02001E+11,Biesstraat 67,Asper,Belgium,50.9104065,3.6457722
+8.02003E+11,Schoolstraat 15 / 2,Lokeren,Belgium,51.1032384,3.9905768
+8.02004E+11,Zuiderbiesten 23L,Eke,Belgium,50.9553724,3.6328878
+8.02004E+11,Harelbekestraat 38,Gent,Belgium,51.0279125,3.7311907
+8.02004E+11,Kortrijkseheerweg 17A,Nazareth-De Pinte,Belgium,50.9803819,3.6176499
+8.02004E+11,Muggenberglei 220,Deurne,Belgium,51.203264,4.4596747
+8.02004E+11,Rúa del seco 26,"Olite, Navarra",Belgium,,
+8.02004E+11,Pelikaanstraat 21 / 301,Gent,Belgium,51.0506908,3.7323375
+8.02005E+11,De Pintelaan 9 / 201,Gent,Belgium,51.0296958,3.7281076
+8.02005E+11,Spoorwegstraat 2,Lichtervelde,Belgium,51.0235981,3.1290281
+8.02005E+11,Ysselmeersstraat 12,Ardooie,Belgium,50.954017,3.1888461
+8.02005E+11,Sint-Lievenslaan 34,Gent,Belgium,51.038452,3.7339456
+8.01001E+11,Floraliënlaan 48 / 0101,Gent,Belgium,51.0382046,3.717109
+8.02E+11,Hortensialaan 14,Nazareth-De Pinte,Belgium,50.9951235,3.65545
+8.02001E+11,Veldstraat 25,Damme,Belgium,51.2080706,3.3261029
+8.02002E+11,Antwerpsesteenweg 328,Sint-Amandsberg,Belgium,51.0605949,3.7480482
+8.02003E+11,Kortemarkstraat 130,Torhout,Belgium,51.0585663,3.0906111
+8.02003E+11,Coupure Links 393,Gent,Belgium,51.0509207,3.7099845
+8.02003E+11,Hundelgemsesteenweg 239,Ledeberg,Belgium,51.0315683,3.7435024
+8.02003E+11,Eedverbondkaai 37 / 101,Gent,Belgium,51.0411616,3.7143052
+8.02004E+11,Hector Denisstraat 59,Ronse,Belgium,50.7344443,3.6045358
+8.02004E+11,Daasdonk 18,Sleidinge,Belgium,51.1422137,3.6481383
+8.01001E+11,Nijverheidsstraat 73,Sint-Amandsberg,Belgium,,
+8.01001E+11,Steenakker 74,Gent,Belgium,51.0228917,3.7224014
+8.01001E+11,Hauwerzele 50,Sint-Lievens-Houtem,Belgium,50.9211457,3.8441351
+8.01001E+11,Motsenstraat 140,Merelbeke-Melle,Belgium,50.9704651,3.744434
+8.01002E+11,Hollekenstraat 8,Assenede,Belgium,51.2347922,3.7580373
+8.02E+11,Aaigemstraat 109,Gent,Belgium,51.0387811,3.7053178
+8.02E+11,Octaaf Van Dammestraat 44,Mariakerke,Belgium,51.0685912,3.6813683
+8.02002E+11,Dassenveld 13,Wetteren,Belgium,50.9949764,3.8731549
+8.02003E+11,Avenue Kleber 10,Bures-sur-Yvette,Belgium,,
+8.02003E+11,Boulevard Saint Michel 127 / b 3,Etterbeek,Belgium,50.8332429,4.4056621
+8.02003E+11,Rue Léon Defosset 1 / Bte 10,Etterbeek,Belgium,,
+8.02003E+11,Charles de Kerchovelaan 385,Gent,Belgium,51.0390218,3.7248261
+8.02004E+11,Onderstraat 25,Gent,Belgium,50.9302761,3.6612609
+8.02004E+11,Hubert Frere-Orbanlaan 451,Gent,Belgium,51.041393,3.7356397
+8.02004E+11,Arthur Latourstraat 20 / 201,Ledeberg,Belgium,51.0412788,3.7434576
+8.02004E+11,Burggravenlaan 305 / 301,Gent,Belgium,51.0322714,3.7341948
+8.02004E+11,Ralingen 143,Evergem,Belgium,51.1053213,3.6891788
+8.02004E+11,Fasolowa 21 / 16,Warschau,Belgium,,
+8.02004E+11,Boonwijkstraat 78,Dendermonde,Belgium,51.0188642,4.0942031
+8.02004E+11,Stationsstraat 33,Herzele,Belgium,50.8894751,3.8887357
+8.02004E+11,Chemin de Vassin 26,La Tour-de-Peilz,Belgium,,
+8.02004E+11,Aannemersstraat 40,Sint-Amandsberg,Belgium,51.0496919,3.7471054
+8.02004E+11,Oude Boomgaardlaan 15,Lochristi,Belgium,51.1009145,3.8287276
+8.02004E+11,"Av San Agustin 44 / 1, 1D",Salamanca,Belgium,,
+8.02004E+11,Schaperstraat 64,Lemberge,Belgium,50.9806829,3.7641968
+8.02004E+11,Eiland 18,Deinze,Belgium,51.0901552,3.5613657
+8.02004E+11,Bernard Spaelaan 105,Gent,Belgium,51.0483805,3.7096337
+8.02005E+11,Rue Saint-Norbert 39,Jette,Belgium,50.8819304,4.3370386
+8.02005E+11,Amelia Earhartlaan 6 404,Gent,Belgium,51.0304417,3.6895271
+8.02005E+11,Patijntjestraat 75,Gent,Belgium,51.0412671,3.7068596
+8.02005E+11,Kortrijksesteenweg 565,Gent,Belgium,51.0354418,3.7166826
+8.02005E+11,Amelia Earhartlaan 6,Sint-Denijs-Westrem,Belgium,51.0304417,3.6895271
+8.02005E+11,Benedictijnenstraat 68H,Gent,Belgium,51.0401075,3.727051
+8.02005E+11,Hospitaalstraat 36,Hamme (O.-Vl.),Belgium,,
+8.02005E+11,Reytstraat 85,Oudenaarde,Belgium,50.8715785,3.6474985
+8.01001E+11,Provinciestraat 12,Antwerpen,Belgium,51.2172712,4.4270634
+8.01001E+11,Baaigemstraat 348,Baaigem,Belgium,50.9331145,3.7181285
+8.01001E+11,J.B. Davidstraat 10,Sint-Niklaas,Belgium,,
+8.02E+11,Oranjerielaan 7,Mariakerke,Belgium,51.0704114,3.6797493
+8.02002E+11,Ringvaartstraat 9 / 3,Merelbeke-Melle,Belgium,51.005892,3.7608894
+8.02004E+11,Erfdyk 7,Eksel,Belgium,51.1546563,5.3390314
+8.02004E+11,Klossebos 3,Zwijnaarde,Belgium,50.9980659,3.6845782
+8.02004E+11,Eggestraat 36,Deinze,Belgium,50.9703447,3.5393211
+8.02005E+11,Handboogstraat 5,Beveren-Waas,Belgium,,
+8.02003E+11,Rijvisschepark 106,Zwijnaarde,Belgium,51.0155479,3.6889901
+8.02003E+11,Kantschoolweg 14,Zeveneken,Belgium,51.1094849,3.8976567
+8.02005E+11,Gavervijver 12,Torhout,Belgium,51.0848802,3.1010293
+8.01001E+11,Albert Schweitzerstraat 4,Gent,Belgium,51.0584819,3.690052
+8.01001E+11,Brandweerstraat 71 / bus 10,Merelbeke-Melle,Belgium,,
+8.01001E+11,Roodborstjesstraat 30,Wondelgem,Belgium,51.0818966,3.7077592
+8.01001E+11,Ferdinand Lousbergskaai 101A / 102,Gent,Belgium,51.043795,3.7403468
+8.01002E+11,s-Gravenstraat 53,Brugge,Belgium,51.2203104,3.2293354
+8.01002E+11,Hoogstraat 24,Vosselare,Belgium,51.0255887,3.5541039
+8.01002E+11,Massemsesteenweg 252,Massemen,Belgium,50.9789746,3.8717786
+8.01002E+11,Lauwstraat 4,Sint-Denijs-Westrem,Belgium,51.0242043,3.667608
+8.01002E+11,Collegebaan 95,Merelbeke-Melle,Belgium,50.9958697,3.8190645
+8.01002E+11,Petuniastraat 13,Gentbrugge,Belgium,51.0246949,3.7540174
+8.01002E+11,Neerscheldestraat 37,Gentbrugge,Belgium,51.0427226,3.7435608
+8.01002E+11,Paddeschootdreef 120,Sint-Niklaas,Belgium,51.1665773,4.1256232
+8.02E+11,Bromeliastraat 15,Sint-Amandsberg,Belgium,51.0628285,3.758075
+8.02E+11,Dries 81,Heusden (O.Vl.),Belgium,,
+8.02E+11,Goedlevenstraat 32,Oostakker,Belgium,51.0789551,3.7626444
+8.02E+11,Abrahamstraat 22,Gent,Belgium,51.0575549,3.7174953
+8.02E+11,Rokerelsstraat 26,Gent,Belgium,51.0473296,3.7126818
+8.02001E+11,Hof ter Bekestraat 31 / 101,Antwerpen,Belgium,51.2009194,4.3970252
+8.02001E+11,Lostraat 120,Lovendegem,Belgium,51.0880315,3.6061702
+8.02001E+11,Kongostraat 74,Gent,Belgium,51.0609623,3.7325512
+8.02001E+11,Groot-Brittanniëlaan 20 / 102,Gent,Belgium,51.045593,3.714148
+8.02001E+11,Gebroeders Becquélaan 21,Sint-Agatha-Berchem,Belgium,50.8673337,4.2897706
+8.02001E+11,Rietvoornstraat 17,Astene,Belgium,50.9906184,3.5700241
+8.02001E+11,Eendrachtstraat 47,Gent,Belgium,51.0490473,3.7428599
+8.02001E+11,Ekam 17,Kinshasa,Belgium,,
+8.02002E+11,Vlinderstraat 20,Waarschoot,Belgium,51.1614487,3.6173543
+8.02002E+11,Joannes Schinckdreef 28,Drongen,Belgium,51.0667253,3.6220847
+8.02002E+11,Peerstraat 119,Gent,Belgium,51.0617388,3.6914309
+8.02002E+11,Peter Benoitlaan 111 / C,Gentbrugge,Belgium,51.0287261,3.761271
+8.02002E+11,Leo Baekelandstraat 13,Gent,Belgium,51.0248609,3.7050313
+8.02002E+11,Tussen 't Pas 1 / B,Gent,Belgium,51.0559756,3.7323732
+8.02002E+11,Zuidstraat 42,Lo-Reninge,Belgium,50.9785249,2.7515045
+8.02002E+11,Floraliënlaan 53 / 0702,Gent,Belgium,51.0375327,3.7165026
+8.02003E+11,Gasmeterlaan 49,Gent,Belgium,51.0649241,3.707453
+8.02003E+11,Martelaarslaan 120,Gent,Belgium,51.0464678,3.7130728
+8.02004E+11,Sportstraat 456,Gent,Belgium,51.0419145,3.7074054
+8.02004E+11,Mechelsesteenweg 181 / 502,Antwerpen,Belgium,51.0730006,4.7093768
+8.02004E+11,Schildersstraat 5 / B201,Sint-Amandsberg,Belgium,51.0521403,3.7463313
+8.02005E+11,Ijzertijdweg 25 / 70,Sint-Amandsberg,Belgium,,
+8.02005E+11,Hubert Frère-Orbanlaan 364,Gent,Belgium,51.041393,3.7356397
+8.02005E+11,Hubert Frère-Orbanlaan 364 / 4th floor,Gent,Belgium,,
+8.02005E+11,Tenbergweg 4,Schepdaal,Belgium,,
+8.01001E+11,Sint-Salvatorstraat 80,Gent,Belgium,51.0673117,3.7296999
+8.01001E+11,Sint-Baafsdreef 40,Lochristi,Belgium,51.0870879,3.8246129
+8.01001E+11,Rechtstraat 56,Zaffelare,Belgium,51.1289146,3.8491253
+8.01001E+11,Hundelgemsesteenweg 91,Merelbeke-Melle,Belgium,51.0133448,3.7526041
+8.01002E+11,Nederzwijnaarde 73 / L,Zwijnaarde,Belgium,51.0063852,3.7214066
+8.01002E+11,Schachterijstraat 5,Lovendegem,Belgium,51.0941868,3.6063894
+8.01002E+11,Heuvelweg 20,Gontrode,Belgium,50.9839807,3.7958734
+8.01002E+11,Mispelstraat 5,Merelbeke-Melle,Belgium,50.9898163,3.7581071
+8.01002E+11,Wispelbergstraat 5,Gent,Belgium,51.0519883,3.7120952
+8.01002E+11,Pacificatielaan 7,Gent,Belgium,51.0284181,3.7131704
+8.02E+11,Jozef Wautersstraat 27,Gentbrugge,Belgium,51.0397104,3.7579735
+8.02E+11,Gontrodestraat 133,Gentbrugge,Belgium,51.025808,3.7567429
+8.02E+11,Josepha Goethalsstraat 5,Sint-Amandsberg,Belgium,51.0680798,3.7806091
+8.02E+11,Gentsesteenweg 198,Deinze,Belgium,50.9805882,3.5459452
+8.02E+11,Broeke 42,Ronse,Belgium,50.7612861,3.5974028
+8.02E+11,Oude Schaapmarkt 13 / A,Gent,Belgium,51.0560431,3.7293691
+8.02001E+11,Eedverbondkaai 261,Gent,Belgium,51.0418295,3.7121484
