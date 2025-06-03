@@ -1,0 +1,28 @@
+from geopy.geocoders import Nominatim
+import pandas as pd
+import time
+# Load your CSV
+df = pd.read_excel("C:/Users/Test/Desktop/mobiliteit/na_lasttry.xlsx") ##change to location in your computer
+
+# Create geocoder
+geolocator = Nominatim(user_agent="my_geocoder3")
+
+def geocode_address(row):
+    try:
+        address = f"{row['address'].strip()}, {row['city'].strip()}, {row['country'].strip()}"
+        print(f"Geocoding: {address}")  # 
+        location = geolocator.geocode(address)
+        time.sleep(1)
+        if location:
+            return pd.Series([location.latitude, location.longitude])
+    except Exception as e:
+        print(f"Error: {e}")
+    return pd.Series([None, None])
+alse)
+
+
+# Apply it
+df[['lat', 'lon']] = df.apply(geocode_address, axis=1)
+
+# Save to CSV
+df.to_excel("C:/Users/Test/Desktop/mobiliteit/na_lastcoded.xlsx", index=False) ##change to location in your computer
