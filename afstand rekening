@@ -1,0 +1,24 @@
+import pandas as pd
+from geopy.distance import geodesic
+
+# Load your data
+df5 = pd.read_excel("C:/Users/Test/Desktop/mobiliteit/last_naaafinal.xlsx",dtype={"Ugent ID": str})  # work locations
+df6 = pd.read_excel("C:/Users/Test/Desktop/mobiliteit/na_lasttry.xlsx",dtype={"Ugent ID": str})  # home locations
+
+# Optional: clean column names
+df5.columns = df5.columns.str.strip()
+df6.columns = df6.columns.str.strip()
+
+# Merge based on common ID
+merged = pd.merge(df5, df6, on="Ugent ID", suffixes=('_1', '_2'))
+def calc_distance(row):
+    try:
+        point1 = (row['lat_1'], row['long_1'])
+        point2 = (row['lat_2'], row['long_2'])
+        return geodesic(point1, point2).km
+    except:
+        return None
+
+# Apply to merged DataFrame
+merged['distance_km'] = merged.apply(calc_distance, axis=1)
+merged.to_excel("C:/Users/Test/Desktop/mobiliteit/distance_naF.xlsx", index=False)
